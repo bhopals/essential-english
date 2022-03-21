@@ -83,3 +83,28 @@
 
   - Use an adverb to describe a adverb
     - Example - The sang "so(adv) clearly(adv)"
+
+### Conjuctions
+
+- Conjuctions connect the words or group of words
+
+- There are three kind of conjunction:
+
+  - Coordinate conjunction
+
+    - link similar words or work groups
+    - for, and, nor, but, or, yet, so (FANBOYS)
+
+  - Correlative Conjuctions
+
+    - link similar words and word groups
+    - but they are always used in pairs
+    - both...and, either...or, neither...nor, not only...but also, whether...or
+
+  - Subordinating Conjuctions
+    - link and independent clause (complete sentence) to a dependent clause (fragment).
+    - after, although, as, as if
+    - as long as, as soon as, as though, because
+    - before, even though, if, in order that
+    - since, so that, though, till
+    - unless, until, when, whenever, where, wherever
