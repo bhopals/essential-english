@@ -108,3 +108,12 @@
     - before, even though, if, in order that
     - since, so that, though, till
     - unless, until, when, whenever, where, wherever
+
+### Interjections
+
+- Interjections show strong emotions
+- Since interjections are not linked gramatically to other words in the sentence, they are set off from the rest of
+  the sentence with a comma or an exclamation mark.
+- oh!, wow!
+
+### Nouns
