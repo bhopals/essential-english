@@ -5,7 +5,12 @@
 ### Adjectives
 
 - Adjectives are words that describe nouns and pronouns.
-- Adjective answers the questions: What kind? How Much? Which One? How Many?
+- Adjective answers the questions:
+
+  - What kind? - "red" nose, "gold" ring
+  - How Much? - "more" sugar, "little" effort
+  - Which One? - "second" chance, "those" chocolates
+  - How Many? - "several" chances, "six" books
 
 - There are five kinds of adjectives
 
@@ -51,3 +56,8 @@
   - Predicate Adjectives are adjectives separated from the noun and pronoun by a linking verb.
   - Predicate Adjectives describes the subject of the sentence
   - Example - The weather was cold all week
+
+### Adverbs
+
+- Adverbs are words that describes verbs, adjectives, or other adverbs.
+- Adverbs answer the questions: When? Where? How? or To What extent?
