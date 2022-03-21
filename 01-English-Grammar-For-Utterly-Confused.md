@@ -44,9 +44,9 @@
 - RULE: Follow these guidelines when you use adjectives
 
   - Use an adjective to describe a noun or a pronoun
-    - Example - Jesse was "willing" to leave "the" circus
+    - Example - Jesse(noun) was "willing" (adj) to leave "the"(adj) circus(noun)
   - Use vivid adjectives to make your writing more specific and descriptive
-    - Example - Take a "larger" slice of the "luscious" cake
+    - Example - Take a "larger"(adj) slice (noun) of the "luscious" (ajd) cake (noun)
   - Use an adjective after a linking verb. A linking verb connects a subject with a descriptive word.
     - The most common Linking Verbs are be(is, am, are, was, were, and so on), seem, appear, look, feel, smell, sound,
       taste, become, grow, remain, stay, and turn
@@ -60,4 +60,26 @@
 ### Adverbs
 
 - Adverbs are words that describes verbs, adjectives, or other adverbs.
-- Adverbs answer the questions: When? Where? How? or To What extent?
+- Adverbs answer the questions:
+  - When? - left yesterday, begin now
+  - Where? - fell below, move up
+  - How? - happily sang, danced badly
+  - To What extent? - partly finished, eat completely
+- More Adverbs are formed by adding -ly to an adjective
+
+  - Qucik - Quickly
+  - Careful - Carefully
+  - Accurate - Accurately
+
+- RULE
+
+  - Use an adverb to describe a verb
+
+    - Example - Experiments using dynamite must be done(verb) "carefully (adv)"
+
+  - Use an adverb to describe a adjective
+
+    - Example - Sam had an "unbelievably(adv) huge(adj)" appetite for chips
+
+  - Use an adverb to describe a adverb
+    - Example - The sang "so(adv) clearly(adv)"
