@@ -72,3 +72,39 @@
 - Nonrestrictive Clauses, Nonessential Material
 
 ## Sentences and Sentences Pattern
+
+- Sentence
+
+  - A Sentence is a group of words that expresses a complete thought.
+  - It begins with a Capital Letter and closes with an end mark, either a PERIOD(.) or a QUESTION MARK(?) or EXCLAMATION MARK(!).
+  - Sentences are classified as four types:
+    - DECLARATIVE - We reached the final level of Doom.
+    - INTERROGATIVE - How did you get past the Valley of Fire?
+    - IMPERATIVE - Click on Dragon. Watch out for the Black Guard.
+    - EXCLAMATORY - I'm in the Secret Chamber!
+
+- Fragment
+
+  - Not every group of words is a Sentence.
+  - A fragment is a phrase or clause that looks like a sentence but does not express a complete thought.
+  - Example
+    - down by the river where the fish bite
+    - if he would just think
+  - By themselves, fragments make little sense and leave important question unanswered.
+    - Corrected Version of the Fragment by making it a full sentence
+      - We were down by the river where the fish bite.
+      - How could he save himself so much trouble if he would just think.
+
+- Run-ons
+  - Unlike fragments, which have not enough parts to make a complete sentence, run-ons have too many parts.
+  - They are two or more complete thoughts - at time only vaguely related - strung together without punctuations.
+  - Example (Run-ons version)
+    - We have only three days until the trip starts I don't have my jacket repaired yet and that will take at least
+      a day or so to do don't you think
+  - Example (Corrected version)
+    - We have only three days until the trip starts, and I forgot to have my jacket repaired. Do you think the repairs
+      will take more than a day or so?
+    - We have only three days to get ready for the trip. I forgot to have my jacket repaired. Do you think the repairs will
+      take more than a day or so?
+
+### Phrases and Clauses
