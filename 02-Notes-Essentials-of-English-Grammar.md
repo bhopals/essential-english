@@ -150,3 +150,37 @@
   - The balloon (Subject) floated up through the trees (Predicate).
   - New York City (Subject) is a major cultural center (Predicate).
   - The Zoo Worker (Subject) was attacked by a tiger (Predicate).
+
+### Sentence Constructions
+
+- Simple Sentence
+  - The Simple Sentence is an independent clause with no subordinate clause
+  - Example
+    - I bought four apples at the farmers market.
+- Compound Sentence
+  - The Compound Sentence contains two or more independent clauses but no subordinate clauses.
+  - The Two independent clauses usually are joined by a comma followed by a conjuction(and, but, nor, yet)
+  - Example
+    - I don't know where he went, and no one has seen him since this afternoon.
+    - You must have heard the news: we're all getting bonuses this year!
+- Complex Sentence
+
+  - The Complex Sentence is made up of an independent clause and one or more subordinate clauses.
+  - When a Subordinate clauses introduces the sentence, it is usually followed by a Comma unless it is very short.
+  - Example
+
+    - After the clear days of Indian Summer, the autumn skies grow heavy and dark.
+    - The library closes early in Summer when the students are out of the school.
+
+- Compound-Compound Sentence
+
+  - The Compound-Complex Sentence is composed of two or more independent clauses and one or more subordinate clauses.
+  - Example
+    - The letter carrier, who is always punctual, didn't come today; I wonder if she is ill.
+    - He should call you as soon as he arrives; but if you don't hear from him, let me know.
+
+### Modifier In Sentence
+
+- A Modifier is any words or group of words that limits or qualify the meaning of other parts of the sentence.
+- Be sure that your modifiers are clearly joined to the word or words they qualify.
+- Descriptive phrases or clauses joined to the wrong words are known as "Dangling Modifiers".
