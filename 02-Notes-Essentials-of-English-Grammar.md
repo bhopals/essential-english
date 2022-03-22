@@ -141,3 +141,12 @@
       - By the time June arrived, the floodplain was completely underwater.
       - John got us jobs as stagehands, because he works at the theater.
       - When they came to the turn, they took the off-road trail
+
+### Subject and Predicate
+
+- The Subject is the person, place, or thing that is the topic of the sentence.
+- The Predicate is what is said about the subject and it always contains a VERB
+- Example
+  - The balloon (Subject) floated up through the trees (Predicate).
+  - New York City (Subject) is a major cultural center (Predicate).
+  - The Zoo Worker (Subject) was attacked by a tiger (Predicate).
