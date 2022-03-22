@@ -108,3 +108,36 @@
       take more than a day or so?
 
 ### Phrases and Clauses
+
+- The various parts of speech are grouped into phrases and clauses, which make up the basic sentence.
+- Phrases
+
+  - Phrases are groups of related words that do not contain a subject-verb combination or express a complete thought.
+  - There are noun phrases, prepositional phrases, participal phrases, verb phrases, and infinitive phrases.
+  - Example
+    - Noun - my widescreen TV, the tired old man
+    - Prepositional - over the wall, around the clock
+    - Participial - playing the fool, running the program
+    - Verb - will be given, is coming
+    - Infinitive - to think, to draw
+
+- Clauses
+
+  - Clauses are groups of related words that contain a subject-verb combination.
+  - Independent Clauses express a complete thought and can stand by themselves as sentences.
+  - Subordinate Clauses serves as part of a sentence but do not express a complete thought and cannot stand by themselves.
+    They are subordinate to independent clauses
+
+  - Example
+    - Independent Clauses (Incorrect Version)
+      - the floodplain was completely underwater
+      - John got us jobs as stagehands
+      - they took the off-road trail
+    - Subordinate Clauses (Incorrect Version)
+      - by the time June arrived
+      - because he works at the theater
+      - when they came to the turn
+    - Complete Sentence
+      - By the time June arrived, the floodplain was completely underwater.
+      - John got us jobs as stagehands, because he works at the theater.
+      - When they came to the turn, they took the off-road trail
