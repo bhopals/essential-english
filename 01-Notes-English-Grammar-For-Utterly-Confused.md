@@ -116,4 +116,98 @@
   the sentence with a comma or an exclamation mark.
 - oh!, wow!
 
-### Top Trouble spots in Writing
+## Chapter 2 - Using Pronouns Correctly
+
+- A Pronoun is a word used in a place of a noun or another noun.
+- A Pronoun gets its meaning from the noun it replaces, called the "antecedent".
+- Pronoun
+  - Nominative Pronoun - The Pronoun is used as a subject.(I, You, He, She, It, We, They Who, Whoever)
+  - Objective Pronoun - The Pronoun is used as a object. (Me, You, Him, Her, It, Us, Them, Whom, Whomever)
+  - Possessive Pronoun - The Pronoun is used to show ownership. (My or Mine, Your or Yours, His, Her or Hers, Our or Ours, Their or Theirs, Whose, Whosever)
+
+### Nominative Pronoun / Use the Nominative Case
+
+- Use the Nominative Case to show the Subject of a Verb.
+  - Ex1 - Father and "I" like to shop at flea Market
+  - Ex2 - "I" like to shop at flea markets.
+- Use the Nominative Case for a Predicative Nominative.
+  - A Predicative Nominative is a Noun or Pronoun that follows a linking verb and identifies or renames the subject.
+  - Remember that a Linking Verb connects a subject to a word that renames it. Linking Verbs indicate
+    a state of being (am, is, are, etc.), relate to the senses (look, smell, taste, etc.), or indicate a condition (appear, seems, become, etc..)
+  - Ex1 - The salesman of the month was "I". (Sometimes Objective nominative "Me" can also be used)
+
+### Objective Pronoun / Use the Objective Case
+
+- Use the Objective case to show a Direct Object
+  - A Direct Object is a noun or pronoun that receives the action.
+    - Ex1 - John's suit no longer fits "him".
+    - Ex2 - "Whom" did she finally invite to the party.
+- Use the Objective case to show an Indirect Object
+  - An Indirect Object tells to or for whom something is done.
+  - Ex1 - The bill gave "us" a shock
+- Use the Objective case for the Object of a Preposition.
+  - Ex1 - Sit by "me"
+
+### Possessive Pronoun / Use the Possessive Case
+
+- Use the Possessive case to show ownership.
+  - Ex1 - The Child refused to believe that the sweater was "hers".
+- Use the Possessive case before gerunds.
+  - Ex1 - "Your" walking (gerund) in the rain didn't cause your cold.
+- Use some possessive pronouns alone to show ownership.
+  - Ex1 - The cell phone is "mine", not "yours"
+
+## RULES - To Use correct Pronoun Reference
+
+- 1. A Pronoun must clearly refer to a single antecendent. A common writing and speech problem occurs when the same
+     pronoun refers to more than one antecendent. Remember a PRONOUN replaces a NOUN so always use the NOUN first
+     before you use the pronouns.
+
+     - Example (Incorrect Sentence)
+       - Guilt and unkindness can be emotionally destructive to you and your friends. You must get rid of "them".
+     - Example (Corrected Sentence)
+       - Guilt and unkindness can be emotionally destructive to you and your friends. You must get rid of "these issues".
+       - Guilt and unkindness can be emotionally destructive to you and your friends. You must get rid of "these destructive emotions"
+
+- 2. Place Pronouns close to their antecendents.
+
+     - Example (Incorrect Sentence)
+       - After meeting with a few guests, the President entered the reception. At that point, Senator Chin and the other
+         elected officials began to pose for Pictures. Even so, "he" did not join.
+     - Example (Corrected Sentence)
+       - After meeting with a few guests, the President entered the reception. At that point, Senator Chin and the other
+         elected officials began to pose for Pictures. Even so, "the President" did not join.
+       - After meeting with a few guests, the President entered the reception. He did not join Senator Chin and the other
+         elected officials, even they have began to pose for Pictures.
+
+3. Make a Pronoun refer to a definite antecedent. Be sure all pronouns refer to only one antecedent.
+   - Example (Incorrect Sentence)
+     - I told my friends that I was going to be a rockstar, which annoyed my mother.
+   - Example (Corrected Sentence)
+     - My mother was annoyed because I told my friends that I was going to be a rockstar.
+
+### The Generic Masculine Pronoun
+
+- Pronouns have Number, Person, and Gender.
+- Example
+  - A Student should turn in his assignments on time. (Masculine - Male)
+  - A Student should turn in her assignments on time. (Feminini - Female)
+  - Students should turn in their assignments on time. (Gender Neutral - Preferred one)
+
+### Using WHO, WHICH, THAT
+
+- WHO refers to people or animals
+- THAT or WHICH refers to things, groups, and unnammed animals
+  - The choise between WHICH and THAT depends of whether the clause introduced by the pronoun is RESTRICTIVE or NONRESTRICTIVE.
+  - A Restrictive clause is essential to the sentence.
+  - Use "That" for Restrictive and "Which" with nonrestrictive clauses.
+
+### SUMMARY
+
+- Case is the form of Noun or Pronoun that shows how it is used in a sentence.
+- English has three cases: Nominative, Objective, and Possessive.
+- Use the Nominative Case to show Subject of a verb.
+- Use the Objective Case to show the Object of a verb.
+- Use the Possessive Case to show Ownership.
+- Make a Pronoun clearly refer to a single, definite antecedent.
+- Place Pronouns close to their antecedents.
