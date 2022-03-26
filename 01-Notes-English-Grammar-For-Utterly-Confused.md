@@ -211,3 +211,106 @@
 - Use the Possessive Case to show Ownership.
 - Make a Pronoun clearly refer to a single, definite antecedent.
 - Place Pronouns close to their antecedents.
+
+## Chapter 3 - Using Verbs Correctly
+
+- Verbs are words that name an action or describe a state of being.
+- There are four basic types - Action Verbs, Linking Verbs, Helping Verbs, and Verb Phrases.
+
+- Regular Verbs
+
+  - The past tense and past participle forms are created by adding -d, -ed, or -t to the Present form, but the vowel does not change.
+  - Example
+    - Walk, Walked, Walked
+
+- Irregular Verbs
+
+  - No pattern is followed when the past and past participle are formed.
+  - Example
+    - Begin, Began, Begun
+    - Lose, Lost, Lost
+    - Run, Run, Run
+    - Lie, Lay, Lain
+    - Lay, Laid, Laid
+
+### Tenses
+
+- PRESENT
+
+  - Use Simple Present and Present Progressive to show events that take place now.
+
+- PAST
+
+  - Use SIX pasts forms to show the events that took place before the present.
+
+  - 1. Simple Past
+
+    - Completed Action (Indefinite Time) - We washed the car.
+    - Completed Condition (Indefinite Time) - We were happy that the party was over.
+    - Completed Action (Definite Time) - We washed the car yesterday.
+    - Completed Condition (Definite Time) - I was delighted yesterday to receive the news.
+
+  - 2. Present Perfect
+
+    - Completed Action (Indefinite Time) - We have bought the gifts.
+    - Completed Condition (Indefinite Time) - I have been very relieved.
+    - Action Continuing into the Present - Sarah has called for two hours.
+    - Condition Continuing into the Present - She has been in New York for a week.
+
+  - 3. Past Perfect
+    - Condition Completed before another - Greg had called all his friends before the party started.
+    - Condition Completed - Greg had been a buther, before he became a guru.
+  - 4. Past Progressive
+    - Continuous Completed Action - I was attending a Spa that month.
+  - 5. Present Perfect Progressive
+    - Action Continuing into Present - Ralph has been exercising all week.
+  - 6. Past Perfect Progressive
+    - Continuing action interrupted by another - Katie had been reparing the fence that was damaged in the storm.
+
+- FUTURE
+  - Use the FOUR future forms to show events that take place in the future.
+  - 1. Simple Future
+    - Future Action - The bus will arrive.
+    - Future Condition - I will be shocked when it does.
+  - 2. Future Perfect
+    - Future action completed before another - By the time you read this, the bus will have arrived.
+    - Future condition completed before another - The storm will have been raging for an hour before the phone goes out.
+  - 3. Future Progressive
+    - Continuing future action - Janice will be exercising all summer.
+  - 4. Future Perfect Progressive
+    - Continuing future action completed before another - When we go on a vacation next week, I will have been exercising for a month.
+
+### Active/Passive Voice
+
+- Active Voice
+
+  - A Verb is active when the subject performs the action.
+  - Examples
+
+    - I served a delicious meal.
+    - We took the package home.
+
+- Passive Voice
+
+  - A Verb is passive when its action is performed upon the subject.
+  - Examples
+    - A package was taken home.
+    - A delicious meal was served by me.
+
+- RULES TO USE
+  - In general, use the Active voice whenever possible because it is more direct and forceful.
+  - Using the Active voice makes your writing more crisp and powerful.
+  - The Active verb is one word rather than two.
+  - Further, there is a no need for a prepositional phrase beginning with "by" if you use Active Voice.
+  - USE of Passive Voice is preferable over the active voice under two conditions:
+    - You don't want to assign blame.
+      - Example - A mistake occurred with the filling system.
+    - You don't know who did the action.
+      - Example - A prank phone call was made at 02:00PM.
+
+### SUMMARY
+
+- A Verb's Tense shows when the action takes place. Use the right order of tenses to show the correct order of events.
+- English verbs are divided into two classes: REGULAR and IRREGULAR.
+- Voice shows the Subject acts (active voice) or is acted upon (passive voice).
+  In general, use Active Voice instead of the Passive Voice.
