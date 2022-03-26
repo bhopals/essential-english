@@ -328,3 +328,115 @@
     and verbs related to senses(look, smell, sound, feel)
   - Linking verbs connect the subject of a sentence to a word that renames or describes it.
 - Avoid double negatives.
+
+## Chapter 5 - Agreement: Matching Sentence Parts
+
+- AGREEMENT means that sentence parts match. Subjects must AGREE with verbs, and pronouns must AGREE with antecedents (clause).
+  If they don't, your sentences will sound awkward and may confuse your listeners and readers.
+- A SUBJECT MUST AGREE with its VERB in NUMBER
+
+### A Singular Subject Must have a Singular Verb
+
+- A Singular Subject must have a Singular Verb.
+  - Example - She "hesitates" at all intersections, making the other drivers angry.
+- Two or more subjects joined by "or" or "nor"/ "neither" or "nor" must have a singular verb.
+  - Example - Either the dog "or" cat has to go
+- Subjects that are singular in meaning but plurals in form require a singular verb.
+
+  - Example - The news "is" on very night at 11:00PM.
+
+- Plural subjects that function as a single unit take a singular verb.
+  - Example - Bacon and eggs "makes" a great late night snack.
+  - Example - Spaghetti and meatballs is my favorite dish.
+- Titles are always singular
+  - Example - Stranger in a Strange Land was written by Robert.
+
+### A Plural Subject Must have a Plural Verb
+
+- A Plural subject must have a Plural Verb.
+  - Example - Men "are" from Earth.
+  - Example - On a average, People "fear" spiders.
+- Two or more Plural Subjects joined by "or" or "nor" must have a plural verb.
+  - Example - Either the children or the adults "are" clearing the table.
+  - Example - Neither my relatives nor my friends "are" leaving anytime soon.
+- A Compound Subject joined by AND is Plural and must have Plural verbs.
+  - Example - Nina and Chris have donated money to charity.
+- If TWO or more singular and plural subjects are joined by "or" or "nor", the subject closest to the verb determines agreement.
+  - Its always best to match the VERB closer to the subject.
+  - Example - Margery or the twins "are" coming on a trip to Seattle.
+  - Example - The twins or Margery "is" coming on a trip to Seattle.
+
+### Collective Nouns and Indefinite Pronouns
+
+- Collective Nouns
+
+  - A Collective noun names a group of people or things. - class, committee, flock, audience, team, club.
+  - A Collective noun is considered singular when it functions as a single unit.
+    - Example - The team "has" practiced for tonights big game for months.
+  - A collective nouns is considered plural when the group it identifies is considered to be individuals.
+    - Example - The team "have" practiced for tonights big game for months.
+
+- Indefinite Pronouns
+
+  - Like Collective nouns, indefinite pronouns refer to people, place, objects, or things - everyone, someone, all, more
+  - Singular Indefinite pronouns take singular verb
+    - another, anybody, anyone, anything, each, either, everybody, everything, little, many a
+    - much, neither, nobody, no one, nothing, one, other, somebody, something, someone
+  - Plural Indefinite pronouns take a plural verb
+    - both, few, many others, several
+  - Singular or Plural Indefinite Pronouns
+    - all, any, more, most, none, some
+  - Examples
+    - One of the gerbils "is" missing.
+    - Both of the gebrils "are" missing.
+    - Many of the guests are sick of Tedious Ted's endless chatter.
+
+### Special Problems in Agreement
+
+- The rules for agreement are straightforward, but some thorny problems do arise. Here are the two most
+  challenging issues: hard-to-find subjects, and intervening phrases.
+
+- 1. Identify Hard-to-find subjects
+  - Example
+    - In the bottom of the lake "are" two old cars(subject)
+    - There "were" still half a dozen tires(subject) in the lake
+  - The Words "there" or "here" at the beginning of a sentence often signal INVERTED WORD ORDER.
+- 2. Ignore intervening phrases
+  - Disregard words or phrases that come between the subject and the verb.
+  - A Phrase or Clause that comes between a subject and its verb does not affect subject-verb agreement.
+  - Example
+    - The strongest muscle in the body "is" tongue.
+    - The captain of the guards "stands" at the door of Buckingham Palace.
+
+### Agreement of Pronouns and Antecedents
+
+- Like subjects and verbs, pronouns and antecedents (the word to which they refer) must agree.
+- RULES
+
+  - 1. A Pronoun agrees with its antecedent in number, person, and gender.
+    - Example
+      - Hortense gave half "her" cupcake to Shirley.
+      - INCORRECT - Hortense will eat her bran flakes and tofu, which you need to stay healthy.
+      - CORRECT - Hortense will eat her bran flakes and tofu, which "she" needs to stay healthy
+  - 2. Use a singular personal pronoun with a singular indefinite pronoun.
+    - Example - If anyone questions the edict, refer "him" or "her" to the boss
+  - 3. Use a Plural Pronoun when the antecedents are joinded by "and". This is true even if the antecedents are singular
+    - Example - The dog and cat maintain "their" friendship by staying out of each others way.
+  - 4.  Antecedents joined by "or", "nor", or correlative conjuctions such as "either...or", "neither...nor" with the
+        antecedents closer to the pronoun.
+    - Example
+      - Neither my baby sister or twins sleep in "their" bed.
+      - Neither the twins or my baby sister sleep in "her" bed.
+  - 5. Be sure that Pronoun refers directly to the noun.
+    - Confusion occurs when the pronoun can refer to more than one antecedent.
+    - If you end up with a confusion sentence, rewrite the sentences.
+    - Example
+      - CONFUSING - Norman saw a coupon in last year's newspaper, but he can't find it.
+      - CORRECT - Norman can't find the coupon he saw in last year's newspaper.
+
+### SUMMARY
+
+- AGREEMENT means that sentence parts match.
+- Subjects must agree with verbs, and pronouns must agree with antecedents.
+- Find the sentence's subject. Figure out if the subject is singular or plural.
+- Select the appropriate verb form to match the form of the subjects.
