@@ -314,3 +314,17 @@
 - English verbs are divided into two classes: REGULAR and IRREGULAR.
 - Voice shows the Subject acts (active voice) or is acted upon (passive voice).
   In general, use Active Voice instead of the Passive Voice.
+
+## Chapter 4 - Using Adjectives and Adverbs Correctly
+
+- Use an Adjective to describe a noun or pronoun.
+- Use an Adverbs to describe a Verb, Adjective, or another Adverb.
+- Use the Comparative degree to describe two items. (Ross is "richer" than Donald.)
+- Use Superlative degree to describe three or more things. (Ross is the richest of all.)
+- Comparative/superlative - more/most/less/least/other/else
+- Be careful when you use an adjective after a linking verb.
+  - Remember linking verb describes a state of being or a condition.
+  - They include all forms to be (such as am, is, are, were, was)
+    and verbs related to senses(look, smell, sound, feel)
+  - Linking verbs connect the subject of a sentence to a word that renames or describes it.
+- Avoid double negatives.
