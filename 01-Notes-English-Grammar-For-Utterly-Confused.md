@@ -786,3 +786,104 @@
   - Examples
     - His goal, `to get promoted before age 30` (Infinitive Phrase), did not seem realistic.
     - The honorees did not want `to attend the banquet in the evening` (Infinitive Phrase).
+
+### Overview of Clauses
+
+- A clause is a group of words with its own subject and verb. Like Phrases, clauses enrich your written and oral expression
+  by adding details and making your meaning more exact.
+- Clauses also allow you to combine ideas to show their relationship. This adds logic and cohesion to your speech and writing.
+- There are two types of clauses:
+
+  - 1. INDEPENDENT Clauses (Main Clause)
+    - It is a complete sentence because it has a subject and verb.
+  - 2. DEPENDENT Clauses (Relative or Subordinate Clause)
+
+### Dependent Clause
+
+- It is a part of a sentence and does not express the complete thought, so it cannot stand alone.
+- Dependent Clauses add additional details/information to the main clauses, but they are not necessary.
+- Subordinating Conjuctions link an independent clause to a dependent clause. Each subordinating conjuction
+  expresses a relationship between the dependent clauses and the independent clause.
+
+  - SUBORDINATION CONJUCTIONS === RELATIONSHOP
+  - unless, provided that, if, even if === Condition
+  - because, as, as if === Reason
+  - rather than, than, whether === Choise
+  - though, although, even though, but === Contrast
+  - where, wherever === Location
+  - in order that, so, so that, that === Result, effect
+  - while, once, when, since, as whenever, after, before, until, as soon === Time
+
+- When a dependent clause introduced by a subordinating conjuction comes before the independent clause,
+  the clauses are usually separated by a comma.
+
+  - Example
+    - When you are in Greece, you should visit the Parthenon.(Dependent Clause + Independent Clause)
+    - You should visit Parthenon when you are in Greece. (Independent Clause + Dependent Clause)
+
+- SUBORDINATING CLAUSES
+
+- There are three different kinds of subordinating clauses
+
+  - 1. ADVERB Clause
+
+    - An adverb clause is a Dependent Clause that describes a verb, adjectives, or other adverbs.
+    - As with adverbs, an adverb clause answers these questions:
+      - Where?
+      - Why?
+      - When?
+      - To what extent?
+      - Under what conditions?
+      - In what manner?
+
+  - You can place an adverb at the Begging, in the Middle, or at the End of a sentence
+  - Examples
+
+    - `Wherever Misty goes`, she leaves broken hearts behind. (Beginning)
+    - Fritz liked the meal `more than Tish did` because she is a picky eater. (Middle)
+    - Harvey wanted to change his appearance `because he was wanted for embezzlement`. (End)
+
+  - 2. ADJECTIVE Clause
+
+    - An adjective clause is a dependent clause that describes nouns and pronouns.
+    - As with adjectives and adjective clauses answers these questions:
+      - What kind?
+      - Which one?
+      - How many?
+      - How much?
+    - Most adjective clauses start with the pronouns: `who`, `whom`, `why`, `whose`, `which`, `that`, `when`,`where`.
+    - Examples
+      - The traffic is never ligh on the days `when I'm in a hurry`.
+      - We selected the candidates `who were the best qualified for the job`.
+
+  - Use `who`, `whom` (and all variations such as `whoever`, `whomever`) to refer to PEOPLE.
+  - Use `which` and `that` if the antecedent is a THING or an ANIMAL.
+
+  - 3. RELATIVE Clause
+
+    - Adjective clauses that begin with one of the relative pronouns are called relative clauses.
+    - The relative pronouns are: `who`, `whom`, `whose`, `which`, `that`.
+    - Relative pronouns connect an adjective clause to the word the clauses describes.
+    - Examples
+      - Ms. Harris, `whose son is an athelete`, is used to having their home filled with sporting equipment.
+      - The person `of whom you spoke` is my cousin.
+
+  - 4. NOUN Clause
+    - A Noun clause is a dependent clause that function as a noun.
+    - Examples
+      - Tracey does `whatever her parents ask her to do`.
+      - The teacher did not accept my excuse `that the dog ate my homework`.
+
+### SUMMARY
+
+- A Phrase is a group of words, without a subject or a verb, that functions as a single part of speech.
+  Phrases cannot stand alone as an independent unit.
+- Prepositional phrases begin with a preposition and end with a noun or pronoun.
+  They can function as Adjectival Phrases and Adverbial Phrases.
+- Appositives rename other noun or pornoun; appositive phrases include modifiers.
+- Verbals are verb forms used as another part of speech.
+  - Participles function as adjectives
+  - Gerunds functions as nouns
+  - Infinitives functions as nouns, adjectives, or adverbs
+- An independent(main) clause is a complete sentence.
+- A dependent (subordinate) clause is a part of sentence; it cannot stand alone.
