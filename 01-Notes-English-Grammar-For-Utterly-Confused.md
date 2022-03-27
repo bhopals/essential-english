@@ -642,3 +642,9 @@
 ### Proof Reading
 
 - 25. Missing Words
+
+### SUMMARY
+
+- Correct grammar and usage are vital for educated professionals.
+- Learn the rules of standard written English, but never let usage guidelines make your writing clumsy or obscure.
+- Track your writing errors and concentrate on correcting the ones that you make most often.
