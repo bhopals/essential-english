@@ -744,12 +744,16 @@
 ### Verbal Phrases
 
 - A verbal is a verb form used as another part of speech. Verbals come in three varieties:
+
   - `Participles` functions as adjectives.
   - `Gerunds` funcitons as nouns.
   - `Infinitives` functions as nouns, adjectives, or adverbs.
+
 - Although a verbal does not function as a verb in a sentence. It does retain two qualities of a verb.
+
   - A verbal can be described by adverbs and adverbial phrases.
   - A verbal can add modifiers to become a verbal phrase.
+
 - Participles Phrases
 
   - A participle is a form of a verb that functions as an adjective. There are two kinds of participles
