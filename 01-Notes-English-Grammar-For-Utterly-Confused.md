@@ -765,6 +765,7 @@
         - Nina, "bothered by the mess", cleaned it up.
 
 - Gerund Phrases
+
   - A gerund is a form of verb used as noun.
   - Gerunds can function as subjects, direct objects, indirect objects, objects of a preposition,
     predictive nominative and appositives.
@@ -774,3 +775,10 @@
   - Examples
     - `The slow, steady dripping` (Gerund Phrase) annoyed him.
     - Jill's morning schedule includes `exercising for a full hour` (Gerund Phrase)
+
+- Infinitive Phrases
+  - The infinitive is a form of the verb that comes after the word `to` and acts as a noun, adjective, or adverb.
+  - An infinitive phrase contains modifiers that together act as a single part of speech.
+  - Examples
+    - His goal, `to get promoted before age 30` (Infinitive Phrase), did not seem realistic.
+    - The honorees did not want `to attend the banquet in the evening` (Infinitive Phrase).
