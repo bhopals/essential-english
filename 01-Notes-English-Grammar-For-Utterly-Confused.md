@@ -1,5 +1,8 @@
 ## English Grammar for the Utterly Confused (Laurie Rozakis)
 
+- ADJECTIVES - What Kind?, How Many?, Which Thing?, Which One?, What Kind?
+- ADVERBS - How?, Where?, When?, Why?, In what Manner?, To what extent
+
 ## Chapter 1 - Part of Speech
 
 ### Adjectives
@@ -648,3 +651,126 @@
 - Correct grammar and usage are vital for educated professionals.
 - Learn the rules of standard written English, but never let usage guidelines make your writing clumsy or obscure.
 - Track your writing errors and concentrate on correcting the ones that you make most often.
+
+## Chapter 7 - Phrases and Clauses
+
+### Overview of Phrases
+
+- A Phrase is a group of words that functions in a sentence as a single part of speech. A Phrase does not have a
+  subject or a verb, so it cannot stand alone as an independent unit - it can function only as a part of speech.
+  As you write, you can use phrases to add detail by describing. Phrases help you express yourself more clearly.
+
+- Types of Phrases
+
+  - 1. Prepositional
+    - Begins with a Preposition and ends with a noun or pronoun.
+    - Examples
+      - "near the house"
+      - "over the moon"
+      - "under the desk"
+  - 2. Adjectival
+    - Prepositional phrase that functions as an adjective.
+    - Examples
+      - Marci has a scarf "with green stripes".
+  - 3. Adverbial
+    - Prepositional phrase that functions as an adverb.
+    - Examples
+      - The fans shouted "with hoarse voices".
+  - 4. Appositive
+    - Noun or Pronoun that renames another noun or pronoun.
+    - Examples
+      - Marci has a scarf "with green stripes".
+  - 5. Verbal
+    - Verb for used as another part of speech.
+    - 5a. Participle
+      - Verbal phrase that functions as an adjective.
+      - Example
+        - "Screaming loudly", the baby was disconsolate.
+    - 5b. Gerund
+      - Verbal phrase that functions as a noun.
+      - Example
+        - "Working Overtime" requires great sacrifice.
+    - 5c. Infinitive
+      - Verbal phrase that functions as a noun, adjective, adverb.
+      - Example
+        - "To clean house on a spring day" is depressing
+
+### Prepositional Phrases
+
+- A Prepositional Phrase is a group of words that begin with a preposition and ends with a noun or a pronoun.
+  This noun and pronoun is called the "Object of the preposition".
+- Examples
+
+  - by the wall
+  - near the closet
+  - over the garage
+  - with help
+  - in the desert
+  - below sea level
+
+- 1. Adjectival Phrases
+
+  - When a preposition phrase serves as an adjective, it is called an adjectival phrase.
+    An adjectival phrase, as with an adjective, describes a noun or a pronoun. To find out if a
+    prepositional phrase is functioning as an adjectival phrase, see if it answers these QUESTIONS:
+    - Which one?
+    - What kind?
+  - Examples
+    - The cost "of the jeans" was surprising.
+    - The clown "with the mask" terrifies the children.
+
+- 2. Adverbial Phrases
+  - When a preposition phrase serves as an adverb, it is called an adverbial phrase.
+    In these cases it describes a verb, an adjective, or adverb. To find out if a prepositional phrase is
+    functioning as an adverbial phrase, see if it answers one of these questions:
+    - Where?
+    - When?
+    - In what manner?
+    - To what extent?
+  - Examples
+    - The Mets played "at the Shea Stadium".
+    - The game lasted "into the fourteenth inning".
+
+### Appositives and Appositives Phrases
+
+- An appositive is an noun or a pronoun that rename another noun or pronoun. Appositives are placed directly
+  after the nouns or pronouns they identify. Appositive phrases are nouns or pronouns with modifiers.
+- Examples
+  - Lisa, "a friend", should have understood my fear.
+  - Tom's new car, "a PT Cruiser", ran out of gas on the highway.
+  - Lisa, "a dear old friend", should have understood my fear.
+  - Tom's new car, "a cherry red convertible PT cruiser", ran out of gas on the highway.
+
+### Verbal Phrases
+
+- A verbal is a verb form used as another part of speech. Verbals come in three varieties:
+  - `Participles` functions as adjectives.
+  - `Gerunds` funcitons as nouns.
+  - `Infinitives` functions as nouns, adjectives, or adverbs.
+- Although a verbal does not function as a verb in a sentence. It does retain two qualities of a verb.
+  - A verbal can be described by adverbs and adverbial phrases.
+  - A verbal can add modifiers to become a verbal phrase.
+- Participles Phrases
+
+  - A participle is a form of a verb that functions as an adjective. There are two kinds of participles
+    - PRESENT Participles
+      - Present Participles end in `ing` (jumping, burning, speaking)
+      - Examples
+        - The "wailing" cats disturbed the neighbors.
+        - "Walking carefully", I avoided the spilled juice.
+    - PAST Participles
+      - Past Participles end in `ed`, `t`, or `en` (jumped, burnt, spoken)
+      - Examples
+        - "Annoyed", the customer stalked out of the store.
+        - Nina, "bothered by the mess", cleaned it up.
+
+- Gerund Phrases
+  - A gerund is a form of verb used as noun.
+  - Gerunds can function as subjects, direct objects, indirect objects, objects of a preposition,
+    predictive nominative and appositives.
+  - Gerund Always end in `-ing`.
+  - Gerund Always act as nouns.
+  - Like a participle, a gerund can be a part of a phrase.
+  - Examples
+    - `The slow, steady dripping` (Gerund Phrase) annoyed him.
+    - Jill's morning schedule includes `exercising for a full hour` (Gerund Phrase)
