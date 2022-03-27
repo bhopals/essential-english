@@ -592,7 +592,32 @@
 ### Sentences
 
 - 12. Fragments (incomplete sentence)
+
+  - Fragment (Incorrect Version)
+    - If you want to be clearly understood
+  - CORRECT
+    - Don't write sentence fragments if you want to be clearly understood.
+  - Every Sentence must have THREE Things
+    - 1. A Subject: the "doer" of the action. The subject will be noun or pornoun.
+    - 2. A Verb: What the subject does.
+    - 3. A complete thought.
+  - So always ensure your Sentence Express a complete thought.
+
 - 13. Run-ons (two sentences run together)
+
+  - Run-on (Incorrect Version)
+    - Daddy longlegs spiders are more poisonous than black widows, daddy longlegs spiders cannot bite humans because their
+      jaws won't open wide enough.
+  - CORRECT (Version 1)
+    - Daddy longlegs spiders are more poisonous than black widows, but daddy longlegs spiders cannot bite humans because their
+      jaws won't open wide enough.
+  - CORRECT (Version 2)
+
+    - Daddy longlegs spiders are more poisonous than black widows; however, daddy longlegs spiders cannot bite humans because their
+      jaws won't open wide enough.
+
+  - A Run-on Sentence occurs when two complete sentences (Independent Clauses) are incorrectly joined. Sentence can only joined with
+    coordinating conjunction (and, but, or, nor, for, so, yet) or a semicolon - A comma doesn't cut the mustard.(Check Chapter 8 for more details).
 
 ### Spelling
 
