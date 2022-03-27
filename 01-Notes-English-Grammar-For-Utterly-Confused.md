@@ -440,3 +440,180 @@
 - Subjects must agree with verbs, and pronouns must agree with antecedents.
 - Find the sentence's subject. Figure out if the subject is singular or plural.
 - Select the appropriate verb form to match the form of the subjects.
+
+## Chapter 6 - The 25 Most Common Usage Problems
+
+- 25 Common Errors - Grammar and Usage, Sentences, Spelling, Punctuation, Capitalization, Proofreading
+
+### Most common Grammar and Usage Errors
+
+- 1. Lack of Clarity
+
+  - Example
+
+    - INCORRECT SENTENCE
+      - Prehistoric people used many inorganic substances difficult to find at archaeological sites, which inculded clay and rock.
+    - CORRECT SENTENCE
+      - Prehistoric people used many inorganic substances, including clay and rock, which are difficult to find at archaeological sites.
+
+  - Sentence can be confusing for many different reasons. In the previous example, too many phrases come between the pronoun and its
+    antecedents. As a result, the pronoun reference gets confusing. This can happen even if the intervening materials is logically
+    related to the rest of the sentence, as is the case here.
+
+  - Here is the quick and dirty lowdown (Check Chapter 7, 8, 9, and 13 for more details):
+    - One Sentence = One Complete Thought. Don't cram too much into one sentence.
+    - The more complex your ideas, the shorter and more simple your sentence should be.
+    - Check that all parts of the sentence are logically related. Are they in the same TENCE?
+    - ReRead your sentences to make sure all pronouns refer to their antecedents and are placed as close as possible to them.
+    - Check that you have punctuated your sentence correctly.
+
+- 2. Redundancy(unnecessary words)
+
+  - INCORRECT SENTENCE
+    - If you reread your work, you will find upon serious reconsideration that a great deal of repetition can be avoided by
+      careful editing and revising and attentive reevaluation. Scrupulous editing can also help you make your writing less wordy.
+  - CORRECT SENTENCE
+    - If you reread your work, you will find that a great deal of repetition can be avoided by careful editing.
+  - Long-winded writing may sound educated and impressivem but it actually turns off your audience because it wastes their time.
+    Say what you need to say concisely. Since your writing will be more intelligent, it will communicate its message directly.
+
+- 3. Problems with Subject-Verb Agreement
+
+  - INCORRECT: Verbs has to agree with the subjects.
+  - CORRECT: Verb have to agree with the subjects.
+  - Agreement means that sentences parts match. Singular to Singular, and Plural to Plural.
+
+- 4. Lack of Parallel Structure
+
+  - NOT Parallel (Incorrect Version)
+    - To avoid getting hit by lightning, never seek protection under a tree, lying down on wet ground, or staying on a bike.
+  - CORRECT Version
+    - To avoid getting hit by lightning, never seek protection under a tree, lie down on wet ground, or stay on a bike.
+
+- 5. Wrong verb tenses
+
+  - INCORRECT
+    - President John Quincy Adams owns a pet alligator, which he kept in the East Room of the White House.
+  - CORRECT
+    - President John Quincy Adams owned a pet alligator, which he kept in the East Room of the White House.
+  - Do not mix PAST and PRESENT. If the sentence is in PAST, use PAST Tense all over, and vice versa.
+
+- 6. Mixed metaphors
+
+  - INCORRECT
+    - Take the bull by toe.
+  - CORRECT
+    - Take the bull by the horns.
+  - Metaphors are "Figure of Speech" that compare two unlike things to explain the less familiar subject.
+    You should not change anything. It should be said the way it is.
+
+- 7. Dangling Modifiers
+
+  - INCORRECT
+    - Flying over the countryside, cars and houses looked like toys.
+  - CORRECT
+    - As we flew over the countryside, cars and houses looked like toys.
+  - A Modifier is a word or phrase that describes a subject, verb, or objects.
+    The Modifier is said to be DANGLE when the word it modifies has been left out of the sentence.
+    Dangling modifiers confuse your readers and obscure your meaning because the sentence doesn't make sense.
+  - Correct a dangling modifier by adding the word or words that have been left out.
+    Here, the subject was added and flying was changed to flew so the sentence makes sense.
+
+  - Dangling Participle
+    - INCORRECT - Rushing to finish the paper, Bob's printer broke.
+    - CORRECT - While Bob was rushing to finish the paper, his printer broke.
+    - One way to tell whether the Participle is dangling is to put the clause with the participle right after the
+      subject of the sentence.
+      "Bob's printer rushing to finish the paper, broke."
+      You can easily hear that it doesn't sound right, hence required to be fixed.
+
+- 8. Misplaced Modifiers
+
+  - INCORRECT
+    - My Parents bought a kitten for my sister they call Pawas.
+  - CORRECT
+    - My Parents bought a kitten they call Pawas for my sister.
+  - A Misplace modifier is a phrase, clause, or word placed too far from the noun or pornoun it describes.
+
+- 9. Incorrect Idioms
+
+  - INCORRECT
+    - It's raining cats and puppies.
+  - CORRECT
+    - It's raining cats and dogs.
+  - An IDIOM is an expression that has a figurative rather than literal meaning.
+    These IDIOMs should not be changed and be used exactly the way they are spoken.
+
+  - Same goes for any prepositional phrase / Idiomatic Prepositions.
+    - INCORRECT
+      - She talked under to him.
+    - CORRECT
+      - She talked down to him.
+  - Idiomatic prepositions are very common and just hard to use. Here is a chart of the most useful ones:
+    - INCORRECT version === Correct version
+    - according with the plan === according to the plan
+    - accuse with prejury === accuse of prejury
+    - apologize about === apologize for
+    - board of === bored with
+    - capable to === capable of
+    - comply to the rules === comply with the rules
+    - concerned to === concerned about, over, with
+    - conform in standards === conform to, with standards
+    - in search for === in search of
+    - in accordance to policy === in accordance with policy
+    - independent from === independent of
+    - inferior than ours === inferior to ours
+    - interested about === interested in, by
+    - jealous for others === jealous of others
+    - outlook of life === outlook on life
+    - puzzled on === puzzled at by
+    - similar with === similar to
+
+- 10. Biased Language
+
+  - INCORRECT
+    - That old geezer is taking my parking space!
+  - CORRECT
+    - That man is taking my parking space!
+  - Avoid language that denigrates people because of their age, gender, race or physical condition.
+
+- 11. Incorrect Voice (Active v/s Passive voice)
+  - Passive Voice
+    - The meeting was attended by the executive.
+  - Active Voice
+    - The executive attended the meeting.
+  - Active voice is always preferred as the voice is clearer and more concise than the passive voice
+  - You should only consider using PASSIVE voice in these two conditions:
+    - To avoid placing blame
+      - "A Mistake was made" rather than "You made a mistake".
+    - To avoid identifying the doer of the action
+      - "The letter was sent" rather than "Nicole sent the letter".
+
+### Sentences
+
+- 12. Fragments (incomplete sentence)
+- 13. Run-ons (two sentences run together)
+
+### Spelling
+
+- 14. Missing Letters
+- 15. Extra Letters
+- 16. Tranposed Letters
+- 17. Incorrect Plurals
+- 18. Errors in cofusing word pairs (such as weather/whether)
+
+### Punctuation
+
+- 19. Missing commas or extra commas
+- 20. Missing or misused apostrophes
+- 21. Misued Exclamation marks
+- 22. Misused Semicolons
+
+### Capitalization
+
+- 23. Proper Nouns not capitalized
+- 24. Errors in titles
+
+### Proof Reading
+
+- 25. Missing Words
