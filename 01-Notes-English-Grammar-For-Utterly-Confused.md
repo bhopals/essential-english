@@ -823,56 +823,56 @@
 
 - SUBORDINATING CLAUSES
 
-- There are three different kinds of subordinating clauses
+  - There are three different kinds of subordinating clauses
 
-  - 1. ADVERB Clause
+    - 1. ADVERB Clause
 
-    - An adverb clause is a Dependent Clause that describes a verb, adjectives, or other adverbs.
-    - As with adverbs, an adverb clause answers these questions:
-      - Where?
-      - Why?
-      - When?
-      - To what extent?
-      - Under what conditions?
-      - In what manner?
+      - An adverb clause is a Dependent Clause that describes a verb, adjectives, or other adverbs.
+      - As with adverbs, an adverb clause answers these questions:
+        - Where?
+        - Why?
+        - When?
+        - To what extent?
+        - Under what conditions?
+        - In what manner?
 
-  - You can place an adverb at the Begging, in the Middle, or at the End of a sentence
-  - Examples
-
-    - `Wherever Misty goes`, she leaves broken hearts behind. (Beginning)
-    - Fritz liked the meal `more than Tish did` because she is a picky eater. (Middle)
-    - Harvey wanted to change his appearance `because he was wanted for embezzlement`. (End)
-
-  - 2. ADJECTIVE Clause
-
-    - An adjective clause is a dependent clause that describes nouns and pronouns.
-    - As with adjectives and adjective clauses answers these questions:
-      - What kind?
-      - Which one?
-      - How many?
-      - How much?
-    - Most adjective clauses start with the pronouns: `who`, `whom`, `why`, `whose`, `which`, `that`, `when`,`where`.
+    - You can place an adverb at the Begging, in the Middle, or at the End of a sentence
     - Examples
-      - The traffic is never ligh on the days `when I'm in a hurry`.
-      - We selected the candidates `who were the best qualified for the job`.
 
-  - Use `who`, `whom` (and all variations such as `whoever`, `whomever`) to refer to PEOPLE.
-  - Use `which` and `that` if the antecedent is a THING or an ANIMAL.
+      - `Wherever Misty goes`, she leaves broken hearts behind. (Beginning)
+      - Fritz liked the meal `more than Tish did` because she is a picky eater. (Middle)
+      - Harvey wanted to change his appearance `because he was wanted for embezzlement`. (End)
 
-  - 3. RELATIVE Clause
+    - 2. ADJECTIVE Clause
 
-    - Adjective clauses that begin with one of the relative pronouns are called relative clauses.
-    - The relative pronouns are: `who`, `whom`, `whose`, `which`, `that`.
-    - Relative pronouns connect an adjective clause to the word the clauses describes.
-    - Examples
-      - Ms. Harris, `whose son is an athelete`, is used to having their home filled with sporting equipment.
-      - The person `of whom you spoke` is my cousin.
+      - An adjective clause is a dependent clause that describes nouns and pronouns.
+      - As with adjectives and adjective clauses answers these questions:
+        - What kind?
+        - Which one?
+        - How many?
+        - How much?
+      - Most adjective clauses start with the pronouns: `who`, `whom`, `why`, `whose`, `which`, `that`, `when`,`where`.
+      - Examples
+        - The traffic is never ligh on the days `when I'm in a hurry`.
+        - We selected the candidates `who were the best qualified for the job`.
 
-  - 4. NOUN Clause
-    - A Noun clause is a dependent clause that function as a noun.
-    - Examples
-      - Tracey does `whatever her parents ask her to do`.
-      - The teacher did not accept my excuse `that the dog ate my homework`.
+    - Use `who`, `whom` (and all variations such as `whoever`, `whomever`) to refer to PEOPLE.
+    - Use `which` and `that` if the antecedent is a THING or an ANIMAL.
+
+    - 3. RELATIVE Clause
+
+      - Adjective clauses that begin with one of the relative pronouns are called relative clauses.
+      - The relative pronouns are: `who`, `whom`, `whose`, `which`, `that`.
+      - Relative pronouns connect an adjective clause to the word the clauses describes.
+      - Examples
+        - Ms. Harris, `whose son is an athelete`, is used to having their home filled with sporting equipment.
+        - The person `of whom you spoke` is my cousin.
+
+    - 4. NOUN Clause
+      - A Noun clause is a dependent clause that function as a noun.
+      - Examples
+        - Tracey does `whatever her parents ask her to do`.
+        - The teacher did not accept my excuse `that the dog ate my homework`.
 
 ### SUMMARY
 
