@@ -887,3 +887,26 @@
   - Infinitives functions as nouns, adjectives, or adverbs
 - An independent(main) clause is a complete sentence.
 - A dependent (subordinate) clause is a part of sentence; it cannot stand alone.
+
+## Chapter 8 - Writing Correct and Complete Sentences
+
+- To be a sentence, a group of words must
+
+  - Have a Subject (noun or pronoun)
+  - Have a Predicate (verb or verb phrase)
+  - Express a Complete Thought
+
+- A Sentence has two parts: a SUBJECT and a PREDICATE.
+
+  - The SUBJECT includes the nound or pronoun that tells what the Subject is about.
+  - The PREDICATE includes the verb that describes what the subject is doing.
+  - Examples
+    - SUBJECT ===== PREDICATE
+    - You ==== halt!
+    - Age ==== is an outragious price paid for maturity.
+    - A Crocodile ==== cannot stick its tongue out.
+    - Several Tourists ==== are lost in the winding roads of Corfu.
+    - Some toothpastes ==== contain antifreeze
+
+- Therefore, a sentence is a group of words with two main parts: A Subject Area, and a Predicate Area.
+- Together, the Subject and Predicate express a complete thought.
