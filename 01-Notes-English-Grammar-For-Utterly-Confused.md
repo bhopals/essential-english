@@ -839,9 +839,9 @@
     - You can place an adverb at the Begging, in the Middle, or at the End of a sentence
     - Examples
 
-      - `Wherever Misty goes`, she leaves broken hearts behind. (Beginning)
-      - Fritz liked the meal `more than Tish did` because she is a picky eater. (Middle)
-      - Harvey wanted to change his appearance `because he was wanted for embezzlement`. (End)
+      - `Wherever Misty goes`, she leaves broken hearts behind. (Beginning of the sentence)
+      - Fritz liked the meal `more than Tish did` because she is a picky eater. (Middle of the sentence)
+      - Harvey wanted to change his appearance `because he was wanted for embezzlement`. (End of the sentence)
 
     - 2. ADJECTIVE Clause
 
