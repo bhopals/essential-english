@@ -890,6 +890,8 @@
 
 ## Chapter 8 - Writing Correct and Complete Sentences
 
+### What is a Sentence?
+
 - To be a sentence, a group of words must
 
   - Have a Subject (noun or pronoun)
@@ -910,3 +912,64 @@
 
 - Therefore, a sentence is a group of words with two main parts: A Subject Area, and a Predicate Area.
 - Together, the Subject and Predicate express a complete thought.
+
+### The Four Different Sentence Functions
+
+- 1. Declarative Sentences - state an idea
+- 2. Exclamatory Sentences - show strong emotions
+- 3. Interrogative Sentences - as a question
+- 4. Imperative Sentences - give orders or directions
+
+### The Four Different Sentence Types
+
+- 1. Simple Sentences
+
+  - A Simple Sentence has one INDEPENDENT Clause.
+  - It means one subject and one verb.
+  - Examples
+    - The snow (s) melted (v) quickly in the bright sunshine.
+    - Oprah Winfrey andConan Obrian(s) host(v) talk shows.
+    - The flower(s) bent(v) in the wind but did not break(v).
+    - Both the teachers and the students(s) cheered(v) and clapped(v) for the winning team.
+
+- 2. Compound Sentences
+
+  - A Compound Sentence has two or more independent clauses. The Independent clauses can be joined in two ways:
+    - With a Coordinating Conjunction (for, and, or, nor, but, or, yet, so)
+    - With a semicolon (;)
+  - Compount Sentence cannot have any subordinate claues (if, until, because, when, while, since, before, so, though, although etc...)
+  - Examples
+    - Insect cuisine may not be standary food in the United States but Science Workds that 80 percent of words population eat that.
+    - Grasshoopers are the most commonly consumed insect yet wasps have the highest protein of all edible insects.
+    - The car is unrelaible; it never starts in the rain.
+  - You may also add a conjunctive adverb to this construction.
+  - The conjuctive adverbs are:
+    - accordingly, afterall, again, also, besides, consequently, finally, for example
+    - for instance, furthermore, however, indeed, moreover, nevertheless, nonetheless, notwithstanding
+    - moreover, nevertheless, indeed, however, on the other hand, otherwise, regardless, still, then
+    - therefore, though, thus, then
+  - The Sentence construction looks like this:
+    - INDEPENDENT CLAUSE; CONJUNCTIVE ADVERB, INDEPENDENT CLAUSE.
+    - Examples
+      - Grasshoopers eat clean plants; however, lobsters eat foul materials.
+      - Nico Worked hard; therefore, she got a merit raise.
+  - Don't join two parts of Compound Sentece with a COMMA(,) because you will
+    end up with a type of "RUN-ON" sentence called COMMA SPLICE.
+
+- 3. Complex Sentences
+
+  - A Complex Sentence contains one INDEPENDENT Clause, and at least one DEPENDENT Clause.
+  - The INDEPENDENT Clause is called the main clause.
+  - These sentences use SUBORDINATING Conjunctions to link ideas.
+  - The Subordinating conjunctions include such words as: because, as, as if, unless, provided that, if, even if.
+  - Examples
+    - Since insects do not have much muscle, their texture is similar to that of a calm.
+    - No one answered whe he called the house.
+    - It was no secret that he was very lazy.
+
+- 4. Compound-Complex Sentences
+  - A Compound-Complex Sentence has atleast Two Independent clauses and at least one Dependent Clause.
+  - The Dependent Clause can be part ofthe independent clause.
+  - Examples
+    - When the drought comes, the reservoirs dry up, and residents know that water restrictions will be in effect.
+    - Chris wanted to drive to work, but she couldn't until her car was repaired.
