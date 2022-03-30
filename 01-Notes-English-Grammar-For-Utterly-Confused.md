@@ -1071,3 +1071,81 @@
 - Run-on sentences are incorrectly joined independent clauses.
 - Fragments are part of sentences.
 - BOTH are considered incorrect in formal written speech.
+
+## Chapter 9 - Sentence Coordination and Subordination
+
+### Coordinating Sentece Parts
+
+- Sometimes you want to show that two or more ideas are equally important in a sentence.
+- In such cases, you are looking to coordinate.
+- Sentence Coordination link ideas of equal importance.
+- This process gives your writing balance by bringing together related independent clauses.
+- There are four different ways to coordinate sentence parts.
+
+  - 1. Use a coordinating conjunction (FANBOYS).
+
+    - We use coordinating conjunction to show relationship between sentences.
+    - Examples
+      - COORDINATE CONJUNCTION == MEANING == FUNCTION
+      - for == as a result == to show cause
+      - and == in addition to == to link ideas
+      - nor == negative == to reinforce negative
+      - but == however == to control ideas
+      - or == choice == to show possibilities
+      - yet == however == to show result
+      - so == therefore == to show contrast or difference
+
+  - 2. Use a pair of correlative conjunctions.
+
+    - Link sentences with a correlative conjunction if you want to show a balance between two independent clauses.
+    - correlative conjunctions Examples
+      - either...or
+      - neither...nor
+      - not only...but also
+      - both...and
+
+  - 3. Use a semicolon
+    - Link independent clauses with a semicolom to show the ideas are of equal importance.
+    - Examples
+      - A cause is what happens; the effect is the result.
+      - The mechanic adjusted the carburetor; Tina's car now runs smoothly.
+  - 4. Use a semicolon and a conjuctive adverb
+
+    - A semicolon and a conjuctive adverb together indicate different relationships, depending on the conjuctive adverbs.
+    - The relationships are chiefly examples, continuation, and constrast.
+    - Examples
+      - I adore chili; unfortunately, it doesn't adore me!
+      - The invention of air-conditioners has greatly influenced major migration trends; for example, Sunbelt cities such as
+        Phoenix, Atlanta, Dallas, and Houston would never have grown as successfully without air-conditioning.
+
+- Each way to coordinate sentences establishes a slightly different relationship between ideas.
+- With practive, you will discover that some sentences are smoother and more logical than others.
+- Examples
+
+  - UNCOORDINATED
+    - The dog's fur was tangled. We took her in for grooming.
+  - COORDINATED
+    - The dog's fur was tangled, so we took her in for grooming.
+    - The dog's fur was tangle; therefore, we took her in for grooming.
+    - The dog's fur was tangle; as a result, we took her in for grooming.
+  - UNCOORDINATED
+    - There have been many controversial World Series. The most infamous was certainly thrown World Series of 1919.
+  - COORDINATED
+    - There have been many controversial World Series; however, the most infamous was certainly thrown World Series of 1919.
+    - There have been many controversial World Series; but the most infamous was certainly thrown World Series of 1919.
+  - UNCOORDINATED
+    - Jack lost his briefcase. Jack lost his cell phone.
+  - COORDINATED
+    - Jack lost his briefcase as well as his cell phone.
+    - Jack lost not only his briefcase but also his cell phone.
+  - UNCOORDINATED
+    - Each year it seems to get harder to pay for a college education. At least $500 million in
+      private-sector money is available to help students pay for their college education.
+  - COORDINATED
+    - Each year it seems to get harder to pay for a college education, but at least $500 million in
+      private-sector money is available to help students pay for their college education.
+    - Each year it seems to get harder to pay for a college education; however, at least $500 million in
+      private-sector money is available to help students pay for their college education.
+
+- BE CAREFUL not to connect unrelated ideas, establish a vague connection among ideas, or connect too many
+  ideas in one sentence. These stylistic choices often create confusing sentences, so BE AWARE.
