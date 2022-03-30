@@ -1149,3 +1149,74 @@
 
 - BE CAREFUL not to connect unrelated ideas, establish a vague connection among ideas, or connect too many
   ideas in one sentence. These stylistic choices often create confusing sentences, so BE AWARE.
+
+### Subordinating Sentence Parts
+
+- Subordination is connecting two unequal but related clauses with a subordinating conjuction to form a complex sentence.
+- Coordination shows the relationship among equal independent to form a complex sentence.
+- Subordination, in contrast, shows the relationship between ideas of unequal rank.
+- When you subordinate one part of sentence to another, you make the dependent clause develop the main clause.
+- Subordination helps you develop your ideas, trace relationship among ideas, and emphasize one idea over the other.
+- Therefore, you will want to use subordination to give your writing (and speech) greater logic, coherence. and unity.
+
+- Follow these four steps to subordinate sentence ideas:
+
+  - 1. First choose the idea or clause that you think is the most important.
+  - 2. Then make this your main clause by adding a Subject or Verb, if necessary.
+       Make sure the main clause expresses a complete idea, too.
+  - 3. Choose the subordination conjunction that best expresses the relationship between
+       the main clause (Effect) and the dependent clause (Cause).
+  - 4. Decide whether to place the main clause or dependent clause first.
+       See which order helps you achieve your purpose and appeal to your audience.
+
+- There are many subordination conjunctions, including -
+  `after`, `although`, `because`, `before`, `if`, `though`, `since`, `when`, `till`, `unless`, `wherever`, `where`
+
+- SUBORDINATION CONJUNCTION === RELATIONSHIP
+
+  - as because === cause, reason
+  - whether, rather than, than === choice
+  - even if, if, unless, provided that === condition
+  - though, even though, although === contrast
+  - so, so that, in order that, that === effect, result
+  - wherever, where === location
+  - since, until, when, while, after, before, once, whenever === time
+
+- Examples
+
+  - NOT SUBORDINATED
+    - It snowed all night. School was closed the following day.
+  - SUBORDINATED
+    - Because it snowed all night, school was closed the following day.
+    - Since it snowed all night, school was closed the following day.
+  - NOT SUBORDINATED
+    - About two million dollars had been bet on the Cincinnati Reds to win. The White Sox were favoured five to one.
+  - SUBORDINATED
+    - Event though the White Sox were favoured five to one, about two million dollars had been bet on the Cincinnati Reds to win.
+    - Although the White Sox were favoured five to one, about two million dollars had been bet on the Cincinnati Reds to win.
+  - NOT SUBORDINATED
+    - A Tornado can pick up a house and drop it hundreds of feet away. These are extermely dangerous storms.
+  - SUBORDINATED
+    - Since, a Tornado can pick up a house and drop it hundreds of feet away, these are extermely dangerous storms.
+  - NOT SUBORDINATED
+    - The case was finally tried. The three men denied having made any confessions. They denied having been involved
+      in any way in the rigging scheme. There was no proof against them.
+  - SUBORDINATED
+    - When the case was finally tried, the three men denied having made any confessions. They also denied having been involved
+      in any way in the rigging scheme because there was no proof against them.
+    - When the case was finally tried. The three men denied having made any confessions and having been involved
+      in any way in the rigging scheme because there was no proof against them.
+  - NOT SUBORDINATED
+    - A Tornado is one of the smallest of all types of storms. It is one of the most dangerous of all storms because of its
+      swiftly spinning winds and unpredictable paths.
+  - SUBORDINATED
+    - Event though a Tornado is one of the smallest of all types of storms, it is one of the most dangerous of all storms
+      because of its swiftly spinning winds and unpredictable paths.
+
+- Be careful not to SWITCH the main clause and the dependent clause when you subordinate.
+  If you put main idea in a dependent clause, your sentence will not be logical.
+  - Example
+    - ILLOGICAL (Cause and Effect are reversed, so the Sentence does not make sense.)
+      - Because people started at her, Rikki wore a see-through blouses.
+    - LOGICAL
+      - Because Rikki wore a see-through blouses, people started at her.
