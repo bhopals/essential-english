@@ -1023,3 +1023,51 @@
           - Water and wind are two main causes of erosion; they constantly change the appearance of the earth.
           - 4a. Using conjuctive ADVERBS
             - Water and wind are two main causes of erosion; as a result, they constantly change the appearance of the earth.
+
+### Sentence Errors: Fragments
+
+- A Sentence fragment is a group of words that do not express a complete thought.
+- Most times, a fragment is missing a SUBJECT, a VERB, or BOTH
+- Other times, a fragment may have a subject and a verb, but still does not express a complete thought.
+- Fragments can be Phrases as well as clauses.
+- Sentence Fragment are accptable in Speech but not in Writing.
+
+- There are three ways that Fragments occur.
+
+  - 1. Fragments occur when a dependent clause masquerades as a sentence.
+    - Examples
+      - Because more and more teenagers are staying up for too late.
+      - Since they do not compensate for the sleep they miss.
+  - 2. Fragments also happen when a phrase is cut off from the sentence it describes
+    - Examples
+      - Used to remove a wide variety of stains on carpets and upholstery.
+      - Trying to prevent the new cotton shirt from shrinking in the dryer.
+  - 3. You can also create a fragment if you use the wrong form of a verb.
+    - Examples
+      - The frog gone to the pond by the reservoirs.
+      - Saffron being a very costly and pungent spice.
+
+- FIX - You can fix a FRAGMENT in three ways:
+  - 1. Add the missing part to the sentence.
+    - Example
+      - Because more and more teenagers are staying up for too late, they are sleep deprived.
+      - Since they do not compensate for the sleep they miss, teenagers often get cranky in the afternoon.
+      - This product is used to remove a wide variety of stains on carpets and upholstery
+      - Jean was trying to prevent the new cotton shirt from shrinking in the dryer.
+  - 2. Omit the subordinating conjunction or connect to another sentence
+    - Example
+      - More and more teenagers are staying up for too late.
+      - They do not compensate for the sleep they miss.
+  - 3. Correct the misused verb
+    - Example
+      - The frog went to the pond by the reservoirs.
+      - Saffron is a very costly and pungent spice.
+
+### SUMMARY
+
+- A Sentence has a SUBJECT, a VERB, and expresses a complete thought.
+- The FOUR sentence functions are DECLARATIVE, EXCLAMATORY, INTERROGATIVE, IMPERATIVE.
+- The FOUR types of sentence are SIMPLE, COMPOUND, COMPLEX, COMPOUND-COMPLEX.
+- Run-on sentences are incorrectly joined independent clauses.
+- Fragments are part of sentences.
+- BOTH are considered incorrect in formal written speech.
