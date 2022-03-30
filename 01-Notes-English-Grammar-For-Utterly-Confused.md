@@ -1236,3 +1236,30 @@
   - SUBORDINATED
     - When the ground began to tremble, the air was heavy with fear.
     - The air was heavy as the ground began to tremble.
+
+### Parallel Structure
+
+- Parallel structure means putting ideas of the same rank in the same gramatically structure.
+- Your Writing and speech should have parallel WORDS, PHRASES, and CLAUSES.
+- Parallel Structure gives your writing many admirable strengths, including tempo, stress, balance, and conciseness.
+- 1. PARALLEL WORDS share the same part of speech (such as nouns, adjectives, or verbs) and tense (if the words are verbs)
+  - Examples
+    - To some people, traveling by air is `safe`, `inexpensive`, and `convenient`.
+    - To others, its `dangerous`, `expensive`, and `convenient`.
+    - You should ear foods that are `nourishing` as well as `tasty`
+- 2. PARALLEL PHRASES contain modifiers
+  - Examples
+    - Polyster shirts wash easily, drip-dry quickly, and wear durably.
+    - Nick took the new job to learn more about finance, make important connections, and get a health plan.
+    - For taking away our Charters, abolishing our laws, and altering the Forms of our Government.
+- 3. PARALLEL CLAUSES can be complete sentences or dependent clauses
+  - Examples
+    - I came, I saw, I conquered.
+    - Our chiefs are killed; Martin is dead; Nick is dead;
+
+### SUMMARY
+
+- Sentence `coordination` links ideas of equal importance.
+- Sentence `subordination` connects two unequal but related clauses with a
+  subordinating, conjunction to form a complex sentence.
+- `Parallel structure` means putting ideas of the same rank in the same grammatical structure.
