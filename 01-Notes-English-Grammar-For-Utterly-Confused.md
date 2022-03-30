@@ -1249,9 +1249,9 @@
     - You should ear foods that are `nourishing` as well as `tasty`
 - 2. PARALLEL PHRASES contain modifiers
   - Examples
-    - Polyster shirts wash easily, drip-dry quickly, and wear durably.
-    - Nick took the new job to learn more about finance, make important connections, and get a health plan.
-    - For taking away our Charters, abolishing our laws, and altering the Forms of our Government.
+    - Polyster shirts `wash easily`, `drip-dry quickly`, and `wear durably`.
+    - Nick took the new job to `learn more about finance`, `make important connections`, and `get a health plan`.
+    - For `taking away our Charters`, `abolishing our laws`, and `altering the Forms` of our Government.
 - 3. PARALLEL CLAUSES can be complete sentences or dependent clauses
   - Examples
     - I came, I saw, I conquered.
