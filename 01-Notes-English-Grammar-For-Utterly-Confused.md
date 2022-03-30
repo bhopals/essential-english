@@ -1220,3 +1220,19 @@
       - Because people started at her, Rikki wore a see-through blouses.
     - LOGICAL
       - Because Rikki wore a see-through blouses, people started at her.
+
+### Coordination versus Subordination
+
+- How can you decide which ideas need to be coordinated and which ones need to be subordinated?
+- Base your decision on the ideas on your sentences.
+- Here are some guidelines you can use as you're deciding whether to COORDINATE or SUBORDINATE
+- COORDINATE - When you want to link related independent clause.
+- SUBORDINATE - When you want to put the most important idea to the main clause.
+- EXAMPLES
+  - TWO CLAUSES
+    - The ground began to tremble. The air was heavy with fear.
+  - COORDINATED
+    - The ground began to tremble and the air was heavy with fear.
+  - SUBORDINATED
+    - When the ground began to tremble, the air was heavy with fear.
+    - The air was heavy as the ground began to tremble.
