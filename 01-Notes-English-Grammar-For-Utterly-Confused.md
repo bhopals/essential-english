@@ -973,3 +973,53 @@
   - Examples
     - When the drought comes, the reservoirs dry up, and residents know that water restrictions will be in effect.
     - Chris wanted to drive to work, but she couldn't until her car was repaired.
+
+### Sentence Errors: Run-on Senteces and Comma Splices
+
+- There are two basic types of Sentece Errors:
+
+  - Fragment
+  - Run-on Senteces
+
+    - A Run-on Sentence is two incorrectly joined independent clauses.
+    - A Comma splice is run-on sentence with a COMMA where the two independent clauses run together.
+    - When your sentence run together, your ideas are garbled.
+    - Examples
+
+      - INCORRECT: Our eyes are always the same size from birth our nose and ears never stop growing.
+      - CORRECT: Our eyes are always the same size from birth, but our nose and ears never stop growing.
+
+      - INCORRECT: A duck quack doesn't echo, no one knows why.
+      - CORRECT: A duck quack doesn't echo, and no one knows why.
+      - CORRECT: A duck quack doesn't echo; no one knows why.
+
+      - INCORRECT: The traditional sonnet has 14 lines, 10 syllables make each line.
+      - CORRECT: The traditional sonnet has 14 lines, and 10 syllables make each line.
+      - CORRECT: The traditional sonnet has 14 lines; 10 syllables make each line.
+
+    - Run-on Sentences are not necessarily long. Some can be quire short, in fact:
+
+      - INCORRECT: Mary fell asleep John left.
+      - CORRECT: Mary fell asleep, and John left.
+      - CORRECT: Mary fell asleep; John left.
+      - CORRECT: Mary fell asleep. John left.
+
+      - INCORRECT: Nick cooked Rita Cleaned up.
+      - CORRECT: Nick cooked, and Rita Cleaned up.
+      - CORRECT: Nick cooked; Rita Cleaned up.
+      - CORRECT: Nick cooked. Rita Cleaned up.
+
+    - FIXING Run-on Sentences
+      - RUN-on Sentence
+        - Water and wind are two main causes of erosion, they constantly change the appearance of the earth.
+      - You can correct a Run-on sentences in a four way:
+        - 1. Divide the run-on sentence into two sentence with period, exclamation, or question mark.
+          - Water and wind are two main causes of erosion. They constantly change the appearance of the earth.
+        - 2. Add a Coordinating conjunction (and, or, but, or, for, yet, so) to create a compound sentence
+          - Water and wind are two main causes of erosion, for they constantly change the appearance of the earth.
+        - 3. Add a Subordinating conjunction to create a complex sentence.
+          - Since Water and wind are two main causes of erosion, they constantly change the appearance of the earth.
+        - 4. Use a Semicolon to create a compound sentence.
+          - Water and wind are two main causes of erosion; they constantly change the appearance of the earth.
+          - 4a. Using conjuctive ADVERBS
+            - Water and wind are two main causes of erosion; as a result, they constantly change the appearance of the earth.
