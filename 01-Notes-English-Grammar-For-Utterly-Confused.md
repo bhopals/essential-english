@@ -1298,3 +1298,26 @@
 - thunderstorm activity ===== thunderstorm
 - until such time ===== until
 - weather event ===== snow (rain, etc.)
+
+### Three ways to Write Concise sentences
+
+- Follow the rules to create succinct, effective sentences.
+- 1. Eliminate unneeded words and phrases.
+  - No filler words
+  - Filler words are empty words and phrases that add nothing to your sentences.
+  - Example Filler words that should be avoided
+    - ADJECTIVES - main, nice, excellent, good, nice
+    - ADVERBS - basically, central, major, quite, really, very, in fact, due to the fact that, in the process of
+    - NOUNS - area, aspect, case, character, element, factor, field, kind, nature, situation, type, thing, sort, quality, scope
+    - PHRASES TO ELIMINATE
+      - the point I am trying to make, as a matter of fact, in a very real sense, in the case of
+      - that is to say, in fact, what I mean to say
+- 2. Combine sentences that repeat information.
+- 3. Don't say the same thing twice.
+
+### SUMMARY
+
+- Diction is a word choice.
+- Select words that suit your topic, purpose, and audience.
+- Redundancy is unnecessary repetition of words and ideas.
+  Eliminate unnecessary words and phrases to make your writing clearer and more vigorous.
