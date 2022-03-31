@@ -1263,3 +1263,38 @@
 - Sentence `subordination` connects two unequal but related clauses with a
   subordinating, conjunction to form a complex sentence.
 - `Parallel structure` means putting ideas of the same rank in the same grammatical structure.
+
+## Chapter 13 - Diction and Conciseness
+
+### Redundant phrases and concise revisions
+
+- REDUNDANT ===== CONCISE
+- at this point in time ===== now
+- fatally killed ===== killed
+- foreign imports ===== imports
+- kills bugs dead ===== kills bugs
+- live and breath ===== live
+- most unique ===== unique
+- proceed ahead ===== proceed
+- revert back ===== revert
+- successfully escaped ===== escaped
+- true facts ===== facts (or truth)
+- at the present time ===== now
+- because of the fact ===== because
+- completely surrounded on all sides ===== surrounded
+- due to the fact that ===== because
+- experience some discomfort ===== hurt
+- for the purpose of ===== for
+- free up some space ===== make room
+- in the event that ===== if
+- in order to utilize ===== to use
+- in order to ===== to
+- in view of the fact that ===== because
+- is an example of ===== is
+- it is believed by many that ===== many believe
+- making an effort of ===== trying to
+- my personal physician ===== my doctor
+- reiterated over and over again ===== repeated
+- thunderstorm activity ===== thunderstorm
+- until such time ===== until
+- weather event ===== snow (rain, etc.)
