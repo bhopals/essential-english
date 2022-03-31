@@ -1309,7 +1309,7 @@
     - ADJECTIVES - main, nice, excellent, good, nice
     - ADVERBS - basically, central, major, quite, really, very, in fact, due to the fact that, in the process of
     - NOUNS - area, aspect, case, character, element, factor, field, kind, nature, situation, type, thing, sort, quality, scope
-    - PHRASES TO ELIMINATE
+    - PHRASES TO ELIMINATE IN WRITING
       - the point I am trying to make, as a matter of fact, in a very real sense, in the case of
       - that is to say, in fact, what I mean to say
 - 2. Combine sentences that repeat information.
