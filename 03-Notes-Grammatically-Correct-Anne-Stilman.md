@@ -155,3 +155,118 @@
       - What `are` the main issues at stake here?
       - Where `are` my shoes?
       - There `are` still tons of debris to be cleared.
+
+- 6. Collective Nouns
+
+  - Collective noun refers to an entity made up of more than one thing or person: `crowd`, `government`, `flock`.
+    Whether such a word functions as a singular or a plural depends on a several factors.
+
+  - RULES
+
+    - SOME ARE ALWAYS SINGULAR OR ALWAYS PLURAL
+      - EXAMPLES
+        - The mob `was` turning ugly.
+        - Where `are` the binoculares
+      - Items that are made up of two connected parts often take a plural construction.
+        - `scissors`, `glasses`, `pliers`, `tweezers`. (PLURAL)
+      - They are only properly treated as singular if preceded by the phrase `a pair of`
+        - `a pair of scissors`, `a pair of glasses`, `a pair of pliers`, `a pair of tweezers`. (SINGULAR)
+    - SOME ARE SINGULAR WHEN USED IN ONE SENSE, AND PLURAL IN ANOTHER
+      - The new headquarters `are` in Paris.
+      - Headquarters `is` waiting for an answer.
+      - Statistics `is` the most difficult course in the program.
+      - The statistics `show` that highway accidents are decreasing.
+    - SOME CAN GO EITHER WAY
+      - Some collective nouns may be treated as either plurals or singulars depending on whether the focus is on the
+        unit or on the members it comprises.
+      - EXAMPLES (Both versions are CORRECT)
+        - The staff `seems` very competent / The staff `seem` very competent
+        - The couple `has` two young daughters / The couple `have` two young daughter.
+        - His family constantly `interfers` in his life / His family constantly `intefere` in his life.
+    - SOME ARE DETERMINED BY CONTEXT
+      - For those collective nouns that can normally go either way, the context sometimes dictates whether
+        one form of the other is appropriate.
+      - EXAMPLES
+        - The staff `have` many specialized skills. [reference is to the individual staff member; verb is plural]
+        - The couple `get` along very well together. [reference is to the two individual who make up the couple; verb is plural]
+        - His family `is` very close-knit. [reference is to the unit; verb is singular]
+    - BE CONSISTENT WITH COLLECTIVE NOUNS
+
+      - With a collective noun that can go either way, be careful that you do not start referring to it as singular and then
+        switch to plural, or vice versa.
+      - INCORRECT USAGE
+        - The couple `lives` in New York but `go` to Florida for the winter.
+        - The committee `is` adamant that `their` recommendations be adopted.
+        - My company `has` an Employment policy that `they have` adhered to for years.
+        - After `their` big win, the team `feels` more relaxed.
+        - The group of ticketholders `was` furiously demanding refunds of `their` money.
+      - CORRECT USAGE (It can be fixed Either way. Just make sure its consistent - PLURAL==PLURAL / SINGULAR==SINGULAR)
+        - The couple `lives` in New York but `goes` to Florida for the winter.
+        - The committee `is` adamant that `its` recommendations be adopted.
+        - My company `has` an Employment policy it `has` adhered to for years.
+        - After `their` big win, the team `feel` more relaxed.
+        - The group of ticketholders `was` furiously demanding refunds of `its` money.
+
+    - TERMS OF QUANTITY
+
+      - Although most popular plural subjects take plural verbs, plural nouns that refer to
+        measurements of money, time, or distance are treated as singulars. That is, the sum is VIEWED AS A UNIT (SINGULAR).
+      - EXAMPLES
+        - Two hours `is` plenty of time.
+        - Twelve yards of material `seems` like more that enough for a doll's dress.
+        - Lying there is pain view `was` the missing four hundred thousands dollars.
+        - Eleven cents `is` hardly going to cover lunch.
+      - Of Course, if the emphasis is intended to be on the individual items, use a plural.
+        - EXAMPLES
+          - The forty minutes of the class `were` dragging by with agonizing slowness.
+          - The thirteen dollars `were` laid on the table one by one.
+      - Other terms of quantity may sometimes be treated as SINGULAR as well.
+        - `Is` three pinches of salt too much?
+        - A generation ago, no one in the world of figure skating would have believed that four revolutions in the air `was` possible.
+
+    - INDEFINITE PRONOUNS
+
+      - Pronouns that refer to a specific person, place, or thing don't cause difficulty when it comes to agreeing with a verb (it is, they are)
+      - Somewhat trickier are INDEFINITE PRONOUNS, which are not tied to something specific. The ones that tend to be misused are those that
+        refer to multitudes but are singular in construction and those that go both ways.
+
+      - PRONOUNS in the FIRST CATEGORY Include:
+        - `each`, `every`, `either`, `neither`, `anyone`, `anybody`, `someone`, `somebody`, `nobody`, `everything`, `everyone`, and `everybody`.
+        - They ALWAYS TAKE A SINGULAR VERB.
+        - EXAMPLES
+          - Either candidate `seems` credible
+          - Eitehr of the candidates `seems` credible.
+          - Neither of us `wants` to go.
+          - Neither of the options `is` acceptable.
+          - Everything in the boxes `goes` into the large filing cabinet.
+          - Where `has` everybody gone?
+        - They are EVEN Singular when used in COMBINATIONS
+          - EXAMPLES
+            - Anything and everythings `goes`.
+            - Anybody and everybody `is` welcome.
+            - Each and every dis `was` chipped.
+        - As with nounds, DO NOT be distracted by parenthetical or modifying phrases intervening between subject and verb.
+          - EXAMPLES
+            - Everything about her presentation - the talk, the overheads, and the handouts - `was` rated highly.
+      - PRONOUNS in the SECOND CATEGORY Include:
+
+        - `all`, `more`, `most`, `some`, `any`, and `none`.
+        - These pronouns take a plural verb when associated with a MULTITUDE (indicating how many), and a singular form
+          when associated with a UNIT (indicating how much)
+        - EXAMPLES
+
+          - All the chores `have` been completed. [how many;verb is plural]
+          - All the snow `was` melted. [how much;verb is singular]
+          - `Is` there any pepper in that shaker. [how much;verb is singular]
+          - `Are` there any questions? [how many;verb is plural]
+
+        - The pronoun `none` is somewhat controversial. Some authorities insist it must always treated
+          as a contraction for `not one`, which makes it singular. However, constructions such as `None of the residents is wealthy`
+          OR `None of the customer seems satisfied` can sound a bit pendantic, and there are many literary precedents to support
+          using this word to mean `not any` as well. The decision as to how to treat it depends partly n whether a singular or
+          plural notion predominates, and partly on how to formal a tone you wish to achieve.
+          - EXAMPLES
+            - The candidates seem interchangeable; none `stands` out as the best. [not one; verb is singular]
+            - None but the foolhardy `eat` at this place. [not any; verb is plural]
+            - None of these options `is` satisfactory. [This is acceptable. This is more FORMAL - singular]
+            - None of these options `are` satisfactory. [This is also acceptable. This is less FORMAL - plural]
