@@ -39,3 +39,16 @@
 
       - If `Each` comes after a compound subject rather than before it, the verb is plural.
         - The invoices and purchase orders each `have` to be approved.
+
+- 2. Compound Subject linked by `or`
+  - When two subjects that share a verb are linkecd by the conjunction or, nor, or but, the verb agrees with whichever
+    part is closest to it.
+    - EXAMPLES
+      - Either the bookcases or the filling cabinets `need` to go somewhere else.
+      - Either the bookcase or the filling cabinet `needs` to go somewhere else.
+      - Either the bookcase or the filling cabinets `need` to go somewhere else.
+      - Either the bookcases or the filling cabinet `needs` to go somewhere else.
+      - One or the other of you `has` to compromise.
+      - Not only the students but also the teacher `has` signed the petition.
+      - Whether the workers or the supervisor `was` responsible was a matter of a debate.
+      - Whether the tablecloth or the placemats `go` on the table is up to you.
