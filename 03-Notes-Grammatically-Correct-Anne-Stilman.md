@@ -81,6 +81,7 @@
       - The new workload on top of my other duties `is` unreasonable.
 
 - 4. Distracting Modifying Nouns
+
   - When a subject is followed by an element that further defines it, there is a risk of mistaking the noun
     contained in this element for the subject itself.
   - EXAMPLES
@@ -96,3 +97,24 @@
     - The use of correction fluid or other methods that mask the original data `is` not permitted.
   - Errors attributable to this type of sentence structure seem limited to when the subject is singular and the phrase
     contains a plural noun.
+
+- 4. Distracting Predicate Nouns
+
+  - With the subject is the center of interest in a sentence, the predicate is what provides information about the subject,
+    either describing it or identifying an action that it performs or that is performed upon it.
+  - If the predicate happens to include a noun, there is a risk of mistaking this noun for the subject itself.
+    This will cause errors in agreement if the subject is singular and the predicate noun is plural, or vice versa.
+  - EXAMPLES
+
+    - Her never-ending rants `are` the biggest irritant.
+    - The biggest irritant `is` her never-ending rants.
+    - The only deductible item on my tax return `is` my charitable expenses.
+    - My charitable expenses `are` the only deductible item on my tax return.
+    - Her best feature `is` her eyes.
+    - Her eyes `are` her best feature.
+    - The ongoing crises and tantrumsin the office `were` a nightmare.
+    - The main thing needed `is` cooler heads.
+    - The most annoying problem with the house `was` its creaky floors.
+
+  - The error of focusing on the wrong noun is liklier to happen if other words intervene between the subject and the verb.
+  - Remember, it is not proximity to the verb that determines which word acts as the subject.
