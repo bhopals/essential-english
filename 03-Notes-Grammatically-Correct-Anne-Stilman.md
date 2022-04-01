@@ -41,6 +41,7 @@
         - The invoices and purchase orders each `have` to be approved.
 
 - 2. Compound Subject linked by `or`
+
   - When two subjects that share a verb are linkecd by the conjunction or, nor, or but, the verb agrees with whichever
     part is closest to it.
     - EXAMPLES
@@ -52,3 +53,29 @@
       - Not only the students but also the teacher `has` signed the petition.
       - Whether the workers or the supervisor `was` responsible was a matter of a debate.
       - Whether the tablecloth or the placemats `go` on the table is up to you.
+
+- 3. Distracting parenthetical nouns
+
+  - When a subject is followed by a mention of another entity, there is a risk of mistaking this other entity for the
+    second part of a compound subject.
+
+    - EXAMPLES
+
+      - Both the principal and the vice principal `are` away at a conference. (Compound Subject)
+      - The principal, as well as the vice principal, `is` away at a conference. (Subject + Parenthetical Element(, ,))
+      - His chronic tardiness, as well as his negative attitude, `disrupts` the class.
+      - The professor, accompained by some graduate students, `was` just entering the building.
+      - Some professors, accompained by some graduate students, `were` just entering the building.
+      - A parcel, along with a multitude of letters, `was` delivered the next day.
+      - Anxiety about her health, in addition to her finanacial woes, `has` led her to seek conunseling.
+      - His perseverance, no less than his pleasant manner, `makes` him a credibly candidate for the job.
+      - The entire room, except for the two side doors, `is` to be painted.
+
+    - Of course, if the subject is preceding the parenthetical phrase is plural, the verb will be PLURAL.
+      - The guidance councelors, as well as secretaries, `are` away at a conference.
+    - Note that the PARENTHETICAL elements in the above examples are enclosed in COMMAS. While technically
+      these are required, they may sometimes be dropped for reasons of style. If you OMIT the commas, this
+      does not effect the rule described above. You would still disregard the parenthetical
+    - Examples
+      - The library as well as the chapel `stands` on a rolling green hill.
+      - The new workload on top of my other duties `is` unreasonable.
