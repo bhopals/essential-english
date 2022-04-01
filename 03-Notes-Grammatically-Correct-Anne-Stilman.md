@@ -79,3 +79,20 @@
     - Examples
       - The library as well as the chapel `stands` on a rolling green hill.
       - The new workload on top of my other duties `is` unreasonable.
+
+- 4. Distracting Modifying Nouns
+  - When a subject is followed by an element that further defines it, there is a risk of mistaking the noun
+    contained in this element for the subject itself.
+  - EXAMPLES
+    - This set `is` not complete.
+    - These instructions `are` not complete.
+    - This set of instructions `is` not complete.
+    - The puppils in her class `are` extraordinary well behaved.
+    - The inscriptions on the tombstone `were` almost worn away.
+    - An extensive collection of medieval manuscripts `is` maintained in the library.
+    - Engaging in contact sports `is` not for the faint of heart.
+    - An assortment of ribbons and bows `was` lying in the drawer.
+    - The inclusion of intervening words between subjects and verb often `causes` confusion.
+    - The use of correction fluid or other methods that mask the original data `is` not permitted.
+  - Errors attributable to this type of sentence structure seem limited to when the subject is singular and the phrase
+    contains a plural noun.
