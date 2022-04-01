@@ -118,3 +118,40 @@
 
   - The error of focusing on the wrong noun is liklier to happen if other words intervene between the subject and the verb.
   - Remember, it is not proximity to the verb that determines which word acts as the subject.
+
+- 5. Inverted Subject-Verb Order
+
+  - In English, the subject usually precedes the verb: `Seth has a good memory`; `his idea was full-proof`.
+  - However, this order is reversed in sentences that are constructed as questions, or that open with phrasing such as
+    `there were` or `it is`, or that say `what` was done before saying `who` did it.
+  - In these situations, writers are more apt to make errors in agreement, either becuase they are focusing only on whatever
+    immediately follows the verb and neglect to look further, or because they get distracted by a noun that precedes the verb.
+    However, the same rules described above apply here as well.
+
+    - EXAMPLES
+
+      - Into each project `go` hours(Subject) of hard work.
+      - Included in the total `are` the five spare componentes(Subject).
+      - Among the guests coming tonight `is` my cousin's new fiance (Subject).
+
+    - If you are ever uncertain about how to deal with an inverted sentence, try mentally turning it around
+      or dropping any distracting elements.
+
+      - the component `are` included.
+      - my cousin's fiance `is` coming.
+
+    - EXAMPLES (with Compound Subject - `and`)
+
+      - `Have` the plates and glasses been put away.
+      - `Do` your brother and his friend need a place to stay tonight.
+      - Walking a purposefully up to the house `were` the trainer and his assistants.
+      - There `are` only five textbooks and one computer available for the entire class.
+
+    - EXAMPLES (with Compound Subject - `or`)
+      - There `is` no paper or pencil to be found anywhere.
+      - There `is` neither prestige nor profits to be gained.
+      - There `are` no pencila or paper to be found anywhere.
+      - `Are` neither my rights nor my reputation to be considered?
+      - What `are` the main issues at stake here?
+      - Where `are` my shoes?
+      - There `are` still tons of debris to be cleared.
