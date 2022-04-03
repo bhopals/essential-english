@@ -270,3 +270,8 @@
             - None but the foolhardy `eat` at this place. [not any; verb is plural]
             - None of these options `is` satisfactory. [This is acceptable. This is more FORMAL - singular]
             - None of these options `are` satisfactory. [This is also acceptable. This is less FORMAL - plural]
+
+- 7. Numerical Phrases
+  - ONE OF
+    - One of those people who `are` late for everything.
+      The key to understanding
