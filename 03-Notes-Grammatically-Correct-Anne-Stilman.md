@@ -272,6 +272,35 @@
             - None of these options `are` satisfactory. [This is also acceptable. This is less FORMAL - plural]
 
 - 7. Numerical Phrases
-  - ONE OF
-    - One of those people who `are` late for everything.
-      The key to understanding
+
+  - 1. My roomates `is` "one of those people" who `are` late for everything.
+       The key to understanding this construction is recongnizing that the sentence is saying two things:
+       - There are some people(plural), who are late for everything, and the roomate is one of them.
+
+  - 2. I believe Zoe `is` "only one of the guests" who `needs` the lift.
+       This sentence is saying that there is one guest(singular) who needs a lift. It is not saying that there
+       are guests(plural) who need lifts.
+
+  - 3. As the witness filed out, "more than one" `was` overcome by emotions.
+       Logically, `more than one` implies a plural, but by convention this constructon is treated as SINGULAR.
+       Note that you would say `more than one witness` not `more than one witnesses`.
+
+  - 4. Included with each set `are` "one or more" evaluation forms.  
+       This might seems to be a case of subjects linked by or where the part closest to the verb is singular
+       and hence the verb should be singular. However, by convention, the phrase `one or more` is taken to be PLURAL.
+
+  - 5. It is estimated that "one in four" adults `has` difficulty reading.
+       Although this obviously refers to a plurality, grammatically the subject is ONE, so the verb is singular.
+       However, many people feel, with some reasonaleness, that the plural form should be considered acceptable as well;
+       certainly, it is a common idiom. Which way you choose to go may depend on the formality of your writing.
+  - 6. A number of students `have` already registered.  
+       The phrase `a number of` is always treated as PLURAL, even though it looks like a singular entity.
+
+  - 7. The number of cars on the city roads `is` increasing by five percent every year.
+       The phrase `the number of` is always treated as singular.
+
+  - 8. All but one candidate `was` male
+       All but one of the candidates `were` male
+       All but one `were` male.
+       - In all three cases, of course, the reference is to a plurality; however, the quirks of the language dictate that if
+         the phrase all but one is immediately followed by noun, the verb is singular.
