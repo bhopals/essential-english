@@ -304,3 +304,55 @@
        All but one `were` male.
        - In all three cases, of course, the reference is to a plurality; however, the quirks of the language dictate that if
          the phrase all but one is immediately followed by noun, the verb is singular.
+
+- 8. Nonstandards Plurals and Singulars
+
+  - The majority of non-standard plurals do not cause confusion, but a few are regularly misused as singulars; conversely,
+    some singular nouns are taken to be plurals. Misunderstanding of either type lead to errors in subject-verb agreement;
+    sometimes because the subject is wrong, sometimes because the verb is wrong.
+
+  - INCORRECT
+
+    - 1. A virus needs a host cell in order t oreproduce; a `bacteria` does not.
+    - 2. The most important `criteria` for admission to the program is good leadership capabilities.
+    - 3. The `media` of television is the focus of the first half of the course.
+    - 4. Rickets `are` prevented by adequate vitamin D and exposure to sunlight.
+    - 5. The study may be stopped at any time if new clinical data `becomes` available.
+    - 6. The `phenomena` of road rage has attracted the attention of social psychologist.
+    - 7. Where is the other `dice`?
+    - 8. `Dominoes` are an easy game to learn.
+    - 9. Customs `are` responsible for levying the following taxes.
+    - 10. The mathematics of the problem `have` not been worked out yet.
+
+  - CORRECT
+
+    - 1. A virus needs a host cell in order t oreproduce; a `bacterium` does not.
+      - One `Virus` === multiple `Viruses`; One `bacterium` === multiple `bacteria`
+    - 2. The most important `criterian` for admission to the program is good leadership capabilities.
+      - One `criterian` === multiple `criteria`
+    - 3. The `medium` of television is the focus of the first half of the course.
+      - One `medium` === multiple `media`
+    - 4. Rickets `is` prevented by adequate vitamin D and exposure to sunlight.
+      - Despite ending with `s`, Rickets is simply the name of a disorder, and hence singular.
+    - 5. The study may be stopped at any time if new clinical data `become` available.
+      - `data` is the PLURAL of the rarely (if ever) used `datum`, a single piece of factual information.
+        However, it is increasingly being treated as a singular, so which way you want to handle it may depend on your audience.
+        In scientific and academic writing, plural usage is required.
+        In busuiness and informal writing, singular usage is accepted and may even be mandatory.
+    - 6. The `phenomenon` of road rage has attracted the attention of social psychologist.
+      - One phenomenon === multiple phenomena
+        Like criteria, phenomena is PLURAL. One `phenomenon` is; multiple `phenomena` are
+    - 7. Where is the other `die`?
+      - One `die` === two `dice`
+        If referring to a pair, this would be - Where are the other `dice`
+    - 8. Dominoes `is` an easy game to learn.
+      - The individual pieces used in the game are PLURAL (one `domino`, multiple `dominoes`)
+        but when referring to the game, the word is simply a singular noun that ends in `s`.
+        This same holds for other games that described as plurals: for exampe, checkers or draughts, horseshoes or quoits,
+        ninepins or tenpins, tiddlywinks.
+    - 9. Customs `is` responsible for levying the following taxes.
+      - Used om the sense of traditions or habits, customs is a course plural (one custom === multiple customs),
+        but the agency responsible for border control is singular.
+    - 10. The mathematics of the problem `has` not been worked out yet.
+      - Despite the `s` ending, mathematics is always singular in construction. The same applies to many other academic or
+        professional fields: for examples, `physics`, `linguistics`, `genetics`.
