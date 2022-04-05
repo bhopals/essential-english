@@ -356,3 +356,59 @@
     - 10. The mathematics of the problem `has` not been worked out yet.
       - Despite the `s` ending, mathematics is always singular in construction. The same applies to many other academic or
         professional fields: for examples, `physics`, `linguistics`, `genetics`.
+
+### Parallel Structure
+
+- 1. The lecture was `long`, a `bore`, and `uninspiring`.
+     CORRECT - The lecture was `long`, `boring`, and `uninspiring`.
+
+- 2. Planning a sruprise party calls for `organizing`, `scheduling`, and `cunning`. (GERUND + NOUN)
+     CORRECT - Planning a sruprise party calls for `organizing`, `scheduling`, and `scheming`. (All Gerunds)
+     CORRECT - Planning a sruprise party calls for `organization`, `cunning`, `scheduling skills`. (All Nouns)
+     - `Organizing` and `Scheduling` are GERUNDs, Words that function as noun by adding `ing` to verbs.
+       While `cunning` is a straightforward noun that just happens to end in `ing`.
+       So the Sentence should either have ALL GERUNDS or ALL NOUNS
+
+- 3. He had always `preferred talking to listening`, and `to give rather than to take direction`. (GERUNDs + Infinitives)
+     CORRECT - He had always preferred `talking to listening`, and `giving over taking direction`. (GERUNDs - More Appropriate)
+     CORRECT - He had always preferred `to talk then listen`, and `to give rather than to take direction`.(NOUNS)
+     - So here we have mix of Gerunds and Infinites, which is incorrect. Its should be either ALL Gerund or ALL Infinitive.
+
+- 4. Her main responsibilities were the `management of the PR department` and `to attend trade shows`. (Noun + Infinitives)
+     CORRECT - Her main responsibilities were `to manage the PR department` and `to attend trade shows`. (ALL Infinitives)
+     CORRECT - Her main responsibilities were to `management of the PR department` and `attendance at trade shows`. (ALL NOUNS)
+
+- 5. A computerized database index needs to be reorganized when it has become fragmented, or to correct the skewing of values.
+     CORRECT - A computerized database index needs to be reorganized when it has become fragmented, or its values have become skewed.
+
+- 6. The consultant objected to the proposal saying that the costs would be exorbitant and because the training facilites were insuffucient.
+     CORRECT - The consultant objected to the proposal, saying that the costs would be exorbitant and that the training facilites were insuffucient.
+
+- 7. It may be necessary to either add or substract items from this list.
+     CORRECT - It may be necessary to either add items to or substract items from this list.
+
+- 8. Courses are offered in spring, summer, and in fall.
+     CORRECT - Courses are offered in spring, in summer, and in fall.
+     CORRECT - Courses are offered in spring, summer, and fall.
+
+- 9. The revised plan called for reduced salaries, operating budgets, and longer hours.
+     CORRECT - The revised plan called for reduced salaries, reduced operating budgets, and longer hours.
+     CORRECT - The revised plan called for reduced salaries and operating budgets, as well as longer hours.
+
+- 10. Writers who work on a freelance basis don't get steady paychecks, but one has the advantage of extra tax breaks.
+      CORRECT - Writers who work on a freelance basis don't get steady paychecks, but they have the advantage of extra tax breaks.
+      CORRECT - As a freelance writer, one does not get don't get steady paychecks, but one has advantage of extra tax breaks.
+
+- 11. Participants should sign in by noon and pick up your registration materials at the front desk.
+      CORRECT - Participants should sign in by noon and pick up their registration materials.
+      CORRECT - Sign in by noon and pick up their registration materials.
+
+- 12. Go to the Options menu to change the display colors, fonts, type size, set predefined breaks in your program, or open the dictionary.
+      CORRECT - Go to the Options menu to change the display colors, fonts, type size; to set predefined breaks in your program, or open the dictionary.
+
+- 13. Customers may either pick up the merchandise themselves, or the company will deliver it for a small fee.
+      CORRECT - Customers may either pick up the merchandise themselves, or have it delivered for a small fee.
+      CORRECT - Either Customers may either pick up the merchandise themselves, or the company will deliver it for a small fee.
+
+- 14. In just twenty minutes, he not only shoveled the entire driveway but also stairs and balcony.
+      CORRECT - In just twenty minutes, he shoveled not only the entire driveway but also the stairs and balcony.
