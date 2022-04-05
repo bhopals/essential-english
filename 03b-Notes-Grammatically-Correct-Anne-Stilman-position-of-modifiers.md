@@ -43,3 +43,21 @@ the modifier makes it sound as if the fall program itself was held at last week'
 by moving the modifying phrase.
 
 - CORRECT - `At last week's meeting, we put out an appeal for more volunteers to help with the fall program.`
+
+### Squinting Modifiers
+
+In some cases, the placement of a modifier is not so much wrong as ambiguous, in that it could apply to either
+the element that precedes it or the one that follows. Such construction are called `squinting modifiers`
+or `two-way modifiers` as they seems to be looking in both directions. For example:
+
+- INCORRECT - The coach said on Thursday we'd have to start working harder.
+
+Was this said on Thursday, or would hte hard work begin on Thrusday?
+This sentence should read as one of the following:
+
+- CORRECT - On Thrusday, the coach said we'd have to start working harder.
+- CORRECT - The coach said we'd have to start working harder on Thursday.
+
+An squinting modifier cab be particularly difficult to notice, since if you read the sentence in a right way it doesn't appear
+to contain a problem. It's a good example of why it is always advisable to have someone else look over your work: this is the
+sort of error a fresh eye is liklier to spot.
