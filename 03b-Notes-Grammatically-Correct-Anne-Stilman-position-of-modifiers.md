@@ -29,6 +29,28 @@ The above Problem can be REMEDIED by rewording either the PHRASE or the CLAUSE.
 The absurdities that result from dangling modifiers can range from the obvious to the subtle.
 Fortunately, even when syntax is garbled, readers are usually able to process a sentence in the way the writers intended it.
 
+- EXERCISE
+
+  - 1. Upon opening the pantry door, a stack of cans flew out at her.
+       Problem: How did the stack of cans manage to open the pantry door?
+       Solution: When she opened the pantry door, a stack of cans flew out at her.
+
+  - 2. Unlike dashes, a writer may use parentheses to enclose an entire sentence, not just part of a sentence.
+       Problem: Lol.. this seems unfair; If writers may use parentheses this way, why shouldn't dashes be permitted to do so as well?
+       Solution: Unlike dashes, parentheses may be used to enclose an entire sentence, not just part of a sentence.
+
+  - 3. Awaiting the starter's gun, Pierre's heart began to thumb rapidally.
+       Problem: Pierre's heart must have good ears :D
+       Solution: Awaiting the starter's gun, Pierre's felt his heart began to thumb rapidally.
+
+  - 4. After ransacking the house, Ben's wallet finally turned up under the dog's water bowl.
+       Problem: That one is active Wallet?
+       Solution: After ransacking the house, Ben finally found his wallet under the dog's water bowl.
+
+  - 5. Thumbing through the newspaper, my eye was suddenly caught by a smaller item.
+       Problem: Unusual Ocular anatomy :D
+       Solution: As I Thumbed through the newspaper, my eye was suddenly caught by a smaller item.
+
 ### Misplaced Modifiers
 
 Like a Dangling modifier , a misplaced modifier acts on something other than what the writer intended.
@@ -44,6 +66,26 @@ by moving the modifying phrase.
 
 - CORRECT - `At last week's meeting, we put out an appeal for more volunteers to help with the fall program.`
 
+- EXERCISE
+
+  - 6. Leaning over the hospital bed, she looked into the vacant man's eyes but could see no spark of recognition.
+       Problem: The man himself is vacant?
+       Solution: Leaning over the hospital bed, she looked into the man's vacant eyes but could see no spark of recognition.
+
+  - 7. At its next meeting, the Board of Education will debate whether teachers to be allowed to administer adrenaline to students who
+       experience severe allergic reactions without written permission.
+       Problem: One has to admire the discipline of those students who do first obtain permission.
+       Solution: At its next meeting, the Board of Education will debate whether teachers should require written
+       premission to administer adrenaline to students who experience severe allergic reactions.
+
+  - 8. The formerly galmorous countess is now continually mocked in the tabloids for her taste in clothing, weight, and overspending.
+       Problem: What's wrong with the countess's taste in weight or her taste in overspending.
+       Solution: The formerly galmorous countess is now continually mocked in the tabloids for her taste in clothing, he weight, and her overspending.
+
+  - 9. The suspect's condition was upgraded from serious to fair after he fell from a third-story balcony while trying to evade arrest.
+       Problem: Who knew that falling off a balcony could have health benefits.
+       Solution: The suspect, who fell from a third-story balcony while trying to evade arrest, has had his condition upgraded from serious to fair.
+
 ### Squinting Modifiers
 
 In some cases, the placement of a modifier is not so much wrong as ambiguous, in that it could apply to either
@@ -52,7 +94,7 @@ or `two-way modifiers` as they seems to be looking in both directions. For examp
 
 - INCORRECT - The coach said on Thursday we'd have to start working harder.
 
-Was this said on Thursday, or would hte hard work begin on Thrusday?
+Was this said on Thursday, or would the hard work begin on Thrusday?
 This sentence should read as one of the following:
 
 - CORRECT - On Thrusday, the coach said we'd have to start working harder.
@@ -61,3 +103,20 @@ This sentence should read as one of the following:
 An squinting modifier cab be particularly difficult to notice, since if you read the sentence in a right way it doesn't appear
 to contain a problem. It's a good example of why it is always advisable to have someone else look over your work: this is the
 sort of error a fresh eye is liklier to spot.
+
+- EXERCISE
+
+  - 10. The gallery that was featured in the evening news recently had another major exhibit.
+        Problem: The gallery was recently featured, or it recently had an exhibit?
+        Solution: The gallery that was recently featured in the evening news had another major exhibit.
+        Solution: The gallery that was feature in the evening news had another major exhibit recently.
+
+  - 11. The tramp being asked to leave rudely replied that one could tell him what to do.
+        Problem: Who was speaking rudely: the tramp or the person asking him to leave?
+        Solution: Upon being rudely asked to leave, the tramp replied that no one could tell him what to do.
+        Solution: The tramp being asked to leave replied rudely that no one would tell him what to do.
+
+  - 12. Climbing stairs very rapidly gets you into good conditions.
+        Problem: Does this mean that racing up the stairs will eventually get you into good condition - or that trudging up them at any pace is a quick way of getting into shape?
+        Solution: Climbing stairs very rapidly is a way of getting into shape.
+        Solution: Climbing stairs get you into good condition very rapidly.
