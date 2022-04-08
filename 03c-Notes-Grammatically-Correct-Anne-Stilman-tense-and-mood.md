@@ -1,6 +1,6 @@
-# Grammatically Correct (Anne Stilman)
+# Grammatically Correct (Anne Stilman) - Tense and Mood
 
-## Tense and Mood
+## INTRODUCTION
 
 - A Tense is the form that a verb takes to indicate the time of its action.
 
@@ -39,3 +39,57 @@
      - expressing a fact (indicative mood)
      - a possibility or liklihood (condition mood)
      - a command or instruction (imperative mood)
+
+## RULE DETAILS
+
+### - PRESENT TENSE
+
+### SIMPLE PRESENT
+
+- Formed by using just the base form of the action verb, with `s` added for the third person singular (`he`, `she`, or `it`).
+
+- 1. Use it to describe a habitual action, circumstance, or state of affairs; a trait, a routine, a custom.
+
+  - Examples
+    - I `go` for an ear candling therapy session every Wednesday.
+    - My aunt `plays` the kettle drums.
+    - He `knows` his way around the pool hall too well.
+    - The queen `likes` corgis.
+    - What do you think about this sculpture? I `hate` it.
+    - Which flavor ice cream `does` your son want? He `wants` banana bubblegum chocolate chip, please.
+
+- 2. Use it in statements referring to the future that include any expression having to do with time (When, once, if unless, after, etc.)
+     even though the event has not yet happened.
+
+  - Examples
+    - I will pay you as he `pays` me (NOT: as soon as he will pay me).
+    - When the timer `goes` off, please turn the head down under the haggis (NOT: when the timer will go off)
+
+- 3. In dialogue (not in formal writing), optionally use it with dynamic verbs to describe something scheduled to happen in the near future.
+
+     - Examples
+
+       - My flight `leaves` in two hours - gotta go.
+       - I `see` my hairdresser next Thursday, so I will get the dirt then.
+
+     - Saying `my flight will leave` (simple future), while accurate, would sound a bit stilted; the simple present is more natural in speech.
+
+- 4. In dialogue, optionally use it to indicate something that happened in the recent past.
+
+     - Example
+
+       - Your mother `tells` me you are engaged. [The telling is not happenin at this very moment]
+       - I `hear` that he is thinking of writing the Great American Novel. [Hearing is not happening at this very moment]
+
+     - This is slightly more casual than using the simple past(`your mother told me...` or `I heard...`)
+
+- 5. Negative formation
+
+  - Examples
+    - I like `popcorns` / I `do not` like `popcorns`.
+    - She `takes` an hour to get ready / She `does not take` an hour to get ready.
+
+- 6. Passive formation
+  - Examples
+    - His magnificence `overwhelms` her / She `is` `overwhelmed` by his magnifience.
+    - My parents always `give` me socks for my birthday / I `am` always `given` socks for my birthday.
