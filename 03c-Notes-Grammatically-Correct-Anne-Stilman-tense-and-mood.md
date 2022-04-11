@@ -93,3 +93,39 @@
   - Examples
     - His magnificence `overwhelms` her / She `is` `overwhelmed` by his magnifience.
     - My parents always `give` me socks for my birthday / I `am` always `given` socks for my birthday.
+
+### PRESENT PROGRESSIVE
+
+- Also called the present continuous.
+- Formed by combining SIMPLE PRESENT of the auxiliary verb be (am, are, you etc) with the present participle of the action verb.
+- This tense can only be used with DYNAMIC Verbs (verb + ing)
+
+- 1. Use it to refer to an action or event that is occuring right now and has not yet finished.
+
+  - Examples
+    - Sorry she can't come to the phone right now - she is playing her kettle drum.
+    - He `is` `finishing` his coffee - he will be with you in a sec.
+    - Have you decided yet what you will order? No I `am` still `thinking`.
+  - NOTE - This tense does not work with stative verbs (hate, want)
+    - What do you think of this sculpture? I am `hating` it (INCORRECT)
+    - What flavor ice cream does your son want? He is `wanting` the banana bubblegum chocolate chip, please (INCORRECT)
+
+- 2. Like the simple present, present progressive can be used to refer to a future scheduled event.
+
+     - Examples
+
+       - He is starting universities in a fall.
+       - Their train is leaving in an hour.
+       - It is not on my calendar, but I am positive we are having tea with duchess next Saturday.
+
+     - Both of below examples describe the same circumstance (Seeing a fried that will happen in the evening):
+       - Present Progressive: I can't, I am seeing another friend that evening.
+         - This indicates that the competing activity was already in place before the invitation.
+       - Simple Future: I can't, I will see another friend that evening.
+         - This indicates a suggestion that plans will be hastly made in order to have a reason to decline.
+
+- 3.  Passive Formation
+  - Use the present progressive of be (am being, are being, is being) followed by the past participle of the action verb.
+  - Examples
+    - I think she is manipulating him / I think he is being manipulated by her.
+    - The nurse is totally ignoring us / We are being ignored by the nurse.
