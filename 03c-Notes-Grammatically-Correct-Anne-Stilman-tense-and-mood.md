@@ -129,3 +129,50 @@
   - Examples
     - I think she is manipulating him / I think he is being manipulated by her.
     - The nurse is totally ignoring us / We are being ignored by the nurse.
+
+### PRESENT PERFECT
+
+- Formed by combining the sipmle present of the auxiliary verb have (has, have) with the past participle of the action verb.
+- Confusingly, this tense refers to something that has already happened.
+- The Present Perfect Captures the idea that there is some `current relevance` to the past action.
+  and that as of this time, one has had experience of doing something.
+
+- 1. Use the present perfect to descrive something that has only just completed and has immediate relevance for the present.
+     - Examples
+       - OK, I `have finished` building the Great Pyramid.
+       - Is Iris still there? No she `has gone` home.
+
+  OR to describe events at any time in the past, provided there is a current relevance.
+
+  - Examples
+    - She `has raised` six kids, so she should know what is she talking about.
+    - We `have blown` too many chances; we have got to get it right this time.
+
+- 2. Use it with the time indicators `since` or `for` to refer to an event or state of affairs that started earlier and
+     is still in effect at the present time. This tense works with both Dynamic and Static verbs.
+
+     - Example
+
+       - He has lived in a tree house for the last two years.
+       - She has raised cattle since 2007
+       - I have known him since kindergarten.
+       - He has owned that car for twelve years.
+
+     - NOTE - DO NOT USE it to refer to an event that took place at a specified time in the past.
+
+       - INCORRECT - He has written six letters to the editor this week.
+       - CORRECT - He wrote six letters to the editor this week.
+
+       - INCORRECT - They have gone to their country house on Sunday.
+       - CORRECT - They went to their country house on Sunday.
+
+- 3. Passive formation
+  - Use the Present Perfect of be (have been, has been) followed by the past participle of the action verb.
+  - Examples
+    - They have given him a huge grant to study the preservation of the broom crowberry. (Active)
+    - He has been given a huge grant to study the preservation of the broom crowberry. (Passive)
+    - I trusted them, but I think they have takes me for a ride. (Active)
+    - I trusted them, but I think I have been taken for a ride. (Passive)
+    - He has worked with lab rats for years, but he has never been bitten. (Passive)
+    - Our team's only been beaten once in the last eight games. (Passive)
+    - There are no injuries, but she has been shook up a bit. (Passive)
