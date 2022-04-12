@@ -260,3 +260,34 @@
     - I like her voice. Yes, `she does sing` beautifully. [more emphatic than Yes, `she sings` beautifully]
     - I think these paid pants and paisley shirt are a good combination, don't you? Yes, `they do go` well together
       [more emphatic than Yes, `they go` well together]
+
+### PAST TENSE
+
+### SIMPLE PAST
+
+- Formed by using just the past form of the action verb.
+- No surprises here: it always refers to an event that tool place prior to the present time.
+- The SIMPLE PAST is of course the standard tense used in narrative, in both fiction writing and non-fiction writing.
+- 1. Use it when referring to a past event, whether the time is specified.
+
+  - Example
+    - I `graduated` ten years ago.
+    - She `left` the company a year ago.
+      OR not (no reference of the time)
+  - Example
+    - I `graduated` with honors.
+    - She `left` her executive position to become a personal shopper.
+
+- 2. Negative Formation
+
+  - For a negative statement, add the past form of `do` (`did`) + `not`, and put the action verb in the base form
+    rather that the past tense form.
+    - Examples
+      - She `saw` him / She `didn't see` him.
+      - The `handled` that well / They `didn't handle` that well.
+
+- 3. Passive Formation
+  - Use the past form of be (was or were) followed by the past participle of the action verb.
+  - Examples
+    - The `downed` their food in about two minutes / Their food `was downed` in about two minutes.
+    - The mosquitoes `dive-bombed` us / We `were dive-bombed` by mosquitos.
