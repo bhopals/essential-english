@@ -176,3 +176,71 @@
     - He has worked with lab rats for years, but he has never been bitten. (Passive)
     - Our team's only been beaten once in the last eight games. (Passive)
     - There are no injuries, but she has been shook up a bit. (Passive)
+
+### PRESENT PERFECT CONTINUOUS
+
+- Also called the present perfect continuous. Formed by combining the simple present of the auxiliary verb `have` (I `have`, he `has`)
+- The auxiliary verb `been`, and the present participle of the action verb.
+- This tense works only with dynamic verbs.
+- It is used to indicate that an action or event that started earlier is still happening or still holds true.
+
+- 1. Use it to indicate ongoing action
+
+  - While the present perfect can also be used for this purpose, it requires a time indicator such as `since` or `for`. In contrast,
+    the present perfect progressive always means that the action is still ongoing, whether or not the time indicator is included.
+  - Examples
+
+    - You are right. I `have been watching` this pot, and it has not boiled yet.
+    - You `have been spying` on me, haven't you?
+    - My husband `has been following` the extreme ironing competition all week.
+
+  - The distinction between the present perfect and the present perfect progressive can be subtle.
+
+    - Always use PRESENT PERFECT when the action referred to has ended.
+    - Always PRESENT PERFECT PROGRESSIVE when the action is still ongoing
+      - (except for sentences with time indicators - where you have a choice of which tense to use.)
+    - Examples
+      - I `have racked` my brains to try to come up with a good example [I am giving up]
+      - I `have been racking` my brains to try to come up with a good example [I am still working on it]
+      - You `have done` only one chore in all this time? [at least you got one completed]
+      - You `have been doing` only one chore in all this time? [and you are still at it?]
+
+  - Consistent with this distinction of COMPLETED versus ONGOING, use the PRESENT PERFECT when referring to the
+    `number of times` something has occured, and PRESENT PERFECT PROGRESSIVE when referring to `a period of time`.
+    - Examples
+      - I `have tried` his number ten times, but no answer. [not: I have been trying this number ten times]
+      - I `have been trying` his number for the last hour, but no answer. [not: I have tried his number for the last hour]
+      - She `has written` six books about her grievances already [not: she has been writing six books]
+      - She `has been writting` about her grievances for years. [not: she has written for years]
+
+- 2. Use it with the time indicators `since` or `for` to convey essentiallly the same meaning as the Present Perfect.
+
+  - Examples
+    - He `has been living` in a tree house for the last two years [same meaning as `he has lived`]
+    - She `has been raising` iguana since 2007 [sme meaning as `she has raised`]
+  - In this situation, the PRESENT PERFECT PROGRESSIVE arguably puts slightly more emphasis on the PRESENT.
+  - However, the PRESENT PERFECT slightly more emphasis on the PAST.
+  - The distinction is trifling, however, and either tense could be used in these sentences with no essential difference in meaning.
+  - NOTE:
+
+    - This tense does not work with the STATITIVE VERBS, either with or without time indicators.
+    - The following examples are INCORRECT
+      - I `have been knowing` him since kindergarten. [correct - I `have known` him since kindergarten]
+      - He `has been owning` that car for twelve years [correct - He `has owned` that car for twelve years]
+
+  - Stative verbs often relate to:
+
+    - `thoughts and opinions`: agree, believe, doubt, guess, imagine, know, mean, recognise, remember, suspect, think, understand
+    - `feelings and emotions`: dislike, hate, like, love, prefer, want, wish
+    - `senses and perceptions`: appear, be, feel, hear, look, see, seem, smell, taste
+    - `possession and measurement`: belong, have, measure, own, possess, weigh.
+
+  - Some of those stative verbs can be used as Dynamic verbs as well.
+
+- 3. Passive Formation
+  - The passive voice does not lend itself well to any of the prefect progressive tenses, and usually BETTER AVOIDED.
+  - It takes the Present Perfect Continuous of BE (have been being or has been being) followed bt the past participle
+    of theaction verb. The result does not exactly trip off the tongue.
+  - Examples
+    - They `have been renovating` their house for months / Their house `has been being renovated` for months.
+    - She `has been stringing` him along for too long / He `has been being strung` along by her for too long.
