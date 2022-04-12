@@ -291,3 +291,34 @@
   - Examples
     - The `downed` their food in about two minutes / Their food `was downed` in about two minutes.
     - The mosquitoes `dive-bombed` us / We `were dive-bombed` by mosquitos.
+
+### Past Progressive
+
+- Also called the Past Continuous.
+- Formed by combining the PAST FORM of the auxiliary verb `be` (I `was`, I `were`) with the present particple of the action verb.
+- It can be used only with DYNAMIC Verbs.
+- 1. Use it to convey the idea of one activity or state of affairs being in progress when another event happened.
+
+  - Examples
+    - She `was minding` her own business when this blackbird came along and pecked off her nose.
+    - The tub `was overflowing` by the time he figured out how to turn the tap off.
+
+- 2. Use it to describe ongoing activities that were taking place in parallel.
+
+  - Examples
+
+    - Mr. Philip `was` back in the corner `explaining` a problem in algebra to Andrew, and the rest
+      of the scholars `were doing` pretty much as they pleased, `eating` green apples, `whispering` drawing pictures on
+      their slate, and `driving` crickets
+
+  - Note: Do not use the past Progressive to refer to an event that took place at a specified time in the past.
+    - Examples
+      - I `was graduating` ten years ago.(Incorrect) / I `graduated`. (Correct)
+      - She `was leaving` an hour ago. (Incorrect)/ She `left`. (Correct)
+      - We `were going` to Helsinki last year. (Incorrect) / We `went` (Correct)
+
+- 3. Passive Form
+  - Use the past progressive of `be` (`was being`, `were being`) followed by the past participle of the action verb.
+  - Examples
+    - She `was treating` him rudely / He `was being treated` rudely.
+    - Ten men `were pulling` on the ropes / The ropes `were being pulled` on by ten men.
