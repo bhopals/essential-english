@@ -244,3 +244,19 @@
   - Examples
     - They `have been renovating` their house for months / Their house `has been being renovated` for months.
     - She `has been stringing` him along for too long / He `has been being strung` along by her for too long.
+
+### PRESENT EMPHATIC
+
+- Formed by combining the simple present of the auxiliary verb `do` (`I/you/we/they do`, `he/she/it does`) with the base form of ACTION VERB.
+- This tense indicates the same time of action as the simple present but, as the name makes obvious, underscores a point more STRONGLY.
+- However, it is not used frequently.
+
+- Use it when the intention is to stress a point; typically when either contradicting a perceding statement.
+  - Examples
+    - Why did you bother buying that exercise bike, when you never use it? I `do use` it.
+    - I am afraid she does not like me. Nonsense, `she does like` you. [more emphatic than `she likes`]
+- or STRONGLY AGREEING with it.
+  - Examples
+    - I like her voice. Yes, `she does sing` beautifully. [more emphatic than Yes, `she sings` beautifully]
+    - I think these paid pants and paisley shirt are a good combination, don't you? Yes, `they do go` well together
+      [more emphatic than Yes, `they go` well together]
