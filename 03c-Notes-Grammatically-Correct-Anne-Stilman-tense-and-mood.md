@@ -546,3 +546,32 @@
     - Examples
       - We will be watching them carefully (Active Voice)
       - They will be being watched carefully (Passive Voice)
+
+### Future Perfect
+
+- Formed by combining the `auxiliary verbs` will have with the `past participle` of the action verb.
+
+- 1. Use this tense to indicate that an event or an `action A` that has not yet happened will have been completed before another
+     more distant event or action `B occurs`, or that an event will occur before some specified time in the future.
+     This is the same concept as the past perfect but goes in the opposite direction, time-wise; and in this case involves
+     references to both the future and the past in one breath.
+
+     - Examples
+
+       - She will have gone by the time you get here.
+       - Everyone will have eaten but eight o'clock.
+       - Hell will have frozen over before those idiots figure out what to do.
+
+     - As with Simple future, `be going to have` can be used instead, although this is less common. Its meaning
+       is the same as `will` but carries a slight implication of great certainity.
+       - Examples
+         - I `am going to have finished` my entire book beofre this stupid flight even takes off.
+         - You `are going to have tidied` your room by the time I get back or else...
+
+- 2. Passive Formation
+  - Use the `future perfect` of `be` (`will have been`) followed bt the past participle of the action verb.
+    - Examples
+      - I am confident that the butler will have polished the silver to perfection (Active Voice)
+      - I am confident that the silver will have been polished to perfection.(Passive Voice)
+      - She will have written over a thousand pages of drivel on that subject. (Active Voice)
+      - Over a thousand pages of drivel on that subject will have been written by her.(Passive Voice)
