@@ -439,3 +439,86 @@
   `If I didn't have to go to work tomorrow, I would sleep till noon.`
 - (C) Future in the past would include a reference to both past and future.
   `She told me this morning that she would bring a bottle of wine tonight.`
+
+### SIMPLE FUTURE
+
+- Formed by combining the auxiliary verb `will` (frequently contracted to `'ll`) with the `base form` of the action verb.
+- Simple future can also be formed with `be going to`.
+
+- A. It is PREFERABLE to use `will` under the following circumstances:
+
+  - 1. When there is a likelihood but not a certainity of something happening, and no prior plan or schedule.
+
+    - Examples
+      - Just throw those crusts in the yard; the birds `will eat` them.
+      - There is no need for medication, as the symptoms `will resolve` on their own.
+
+  - 2. When a statement about a future action is arising out of what is happening now.
+    - Examples
+      - I `will` be right with you - hang on.
+      - Well, I `will` see what I can do.
+      - Do not yell, we `well` clean up when we are done.
+
+- 3. When making an offer to do something, without an earlier understanding.
+
+  - Examples
+    - Anybody here able to host the next meeting? Sure, I `will`.
+      [ `I am going to` would imply that the arrangement was already in place.]
+    - "Dear Pig, are you willing to sell for one shilling Your ring?" Said the piggy, "I `will`"
+
+- 4. When there is outright certainity about the outcome
+
+  - Examples
+    - May be she `will` change her mind. [one can always hope]
+    - Perhaps the neighbors `will` relent and return our baseball.
+      [Should be offer to pay for the broken window?]
+
+- 5. When writing in a formal style:
+
+  - Examples
+    - The study will enroll 300 patients. [not `is going to` enroll]
+    - The investigator will be responsible for obtaining informed consent from the subjects. [not `is going to` be responsible for]
+
+- 6. When emphasizing an action. The future cannot employ `do` to achieve emphasis as in the present emphatic, and past emphatic.
+     But in speech at least, where `will` is almost always contracted to `'ll`.
+     An emphatic effect can be achieved by usingthe full word:
+     - Examples
+       - If you don't hurry, you won't make that deadline. `I will make it`
+         [more emphatic than `I'll make it`]
+       - It looks like Edne won't be showing up. `She will show up`.
+         [more emphatic than `she'll show up`]
+
+- B. It is PREFERABLE to use `is going to` under the following circumstances:
+
+  - 1. When the future act or event is something planned or intended, or can be predicted with CERTAINTY.
+       - Examples
+         - I `am going to pass by` the market this afternoon: can I pick anything up for you?
+         - We `are going to catch` a movie tonight; care to join us?
+         - I heard `it's going to` rain tomorrow [assuming that the forecast can be trusted]
+         - My nephew insists he `is going to be` a fireman when he grows up.
+           [`he grows` - use of simple present following the time expression `when`]
+
+  - 2. When expressing a stronger intention that the use of `will` indicates. Compare the following two statements:
+    - I `will call` tonight to see how are you doing. [I assume you are okay with that]
+    - I `am going to call` tonight to see how are you doing. [whether you like it or not]
+
+- C. Yet a third way of forming the simple future is with the verb `shall`. Its use is less common and is
+  usually reserved for the following:
+
+  - 1.When extra emphasis is wanted:
+    - Examples
+      - I `shall do` as I please.
+      - You most certainly `shall not`.
+  - 2. In legal terminology, such as that used in contracts, where the intention is to clarify that something is not OPTIONAL:
+    - Examples
+      - The author `shall deliver` to the Publisher one copy of the complete manuscript for the work, in content and form
+        satisfactory to the Publisher. The Publisher `shall`, within eighteen months after accepting the Authors satisfactory
+        complete and final manuscript, publish the Work at its own expense.
+
+- Passive Formation
+  - Use the Simple future of `be` (`will be` or `going to be`), followed by the `past participle` of the action verb.
+  - Examples
+    - The dog will eat anything that falls on the floor. (Active Voice)
+    - Anything that falls on the floor will be eaten by the dog. (Passive Voice)
+    - Alfie is going to organize the next safari. (Active Voice)
+    - The next safari is going to be organized by Alfie (Passive Voice)
