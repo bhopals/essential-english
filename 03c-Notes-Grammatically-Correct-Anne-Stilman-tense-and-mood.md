@@ -318,7 +318,49 @@
       - We `were going` to Helsinki last year. (Incorrect) / We `went` (Correct)
 
 - 3. Passive Form
+
   - Use the past progressive of `be` (`was being`, `were being`) followed by the past participle of the action verb.
   - Examples
     - She `was treating` him rudely / He `was being treated` rudely.
     - Ten men `were pulling` on the ropes / The ropes `were being pulled` on by ten men.
+
+### Past Perfect
+
+- Formed by combining the past form of the auxiliary verb have (`had` in all cases, frequently contracted to `'d`)
+  with the past participle of the action verb.
+- Use this tense to indicate that an action or event in the past happened earlier than some other action
+  or event in the past, or that it happened earlier than some specified time in the past.
+
+- 1. When referring to two or more past actions or events, use the past perfect to indicate that event A was completed
+     before event B occured.
+
+  - Examples
+
+    - It was only when the hostess introduced them that she remembered she had met him once before
+      [`met` happened prior to `introduced` or `remembered`]
+    - The road suddenly ended at the top of a cliff, at which point we realized we had missed the turn-off.
+      [`missed` happened prior to `ended` or `realized`]
+
+    - With stative verbs, use it to indicate that `action A` was in effect at the point at which `action B` occured.
+    - Examples
+      - I had known that she was rich, but I was still taken by surprise when she perensted me with a yatch for my birthday.
+      - He had liked her a lot until he found out about the bodies buried in her cellar.
+    - With dynamic verbs, use the past perfect progressive for this purpose instead.
+
+- 2. When a sentence refers to a single action or event, this tense indicates that the action or event took place
+     was in effect at some time prior to the time under discussion.
+     - Examples
+       - We had heard all his stories a million times already.
+       - I had never seen such a mess.
+       - We were told that the cup had belonged to the Borgia family.
+
+- 3. Passive Formation
+
+     - Use the past perfect of `be` (`had been`) followed by the past participle of the action verbs.
+     - Examples
+
+       - We had given him enough chances (Active Voice)
+       - He had been given enough chances (Passive Voice)
+
+       - He had driven her to appointment countless times (Active Voice)
+       - She had been driven to appointment by him countless times. (Passive Voice)
