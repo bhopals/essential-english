@@ -593,3 +593,25 @@
   - Examples
     - They will have been showing all their artwork to the guests (Active Voice)
     - All their artwork will have been being shown to the guests.(Passive Voice)
+
+### Future in the PAST
+
+- Formed by combining the auxiliary verb `would` with the `base form` of the action verb.
+- It is equivalent of the simple future, which puts `will` before the base form.
+- Here `would` is acting as the past tense of `will`
+
+- 1. This tense expresses the idea that at some earlier point, reference was made to an intended action or expected event that
+     at that time was still in the future. Sentences that use future in the past include actions such as `thinking`, `knowing`,
+     `planning`, `informing`, `predicting`, `promising`.
+     - Examples
+       - I knew he `would` cough up what he owed eventually.
+       - He had been so convinced that he `would` win the lottery, he quit his job.
+
+  - Note that the same combination of `would` plus the base form of the action verb is used for both the `habitual past` and
+    the `conditional simple`. The presence in the sentence of another verb in the `past form` (`knew`, `had`) provides
+    the necessary context to differentiate this tense from those others.
+
+    - Like the simple future, the future in the past can use `be going to` instead of `would`; in this case, in the past form.
+      - Examples
+        - She was afraid he `was going to ramble on` forever.
+        - They told me they `were going to make` the first payment last week.
