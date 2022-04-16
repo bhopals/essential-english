@@ -522,3 +522,27 @@
     - Anything that falls on the floor will be eaten by the dog. (Passive Voice)
     - Alfie is going to organize the next safari. (Active Voice)
     - The next safari is going to be organized by Alfie (Passive Voice)
+
+### Future Progressive
+
+- Also called the Future continuous. Formed by combining the auxiliary verbs `will be` or `be going to be` with the
+  Present Participle of the action verb.
+
+- 1. Use this tense to indicate that an action or event that will begin in the future will still be in progress at some later time,
+     or will be continuing for some time. It can be used only with dynamic verbs.
+     - Examples
+       - He `will be working` late tonight, so you probably won't see him.
+       - We `will be following` your career as an alligator wrestler with great interest.
+
+- 2. `Be going to be` is more appropriate that `will be` if there is a wish to emphasize that something is planned.
+
+  - Examples
+    - I `am going to be` outside shoveling - just holler(loud shout or cry) if you need me.
+    - My kids will be running in the marathon, but I `am going to be walking`.
+
+- 3. Passive Formation
+  - The passive voice again fares very poorly here, consisting of the future progressive of `be` (`will be being`) followed by
+    the `Past Participle` of the action verb. It is not recommended.
+    - Examples
+      - We will be watching them carefully (Active Voice)
+      - They will be being watched carefully (Passive Voice)
