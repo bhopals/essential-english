@@ -343,24 +343,62 @@
 
     - With stative verbs, use it to indicate that `action A` was in effect at the point at which `action B` occured.
     - Examples
-      - I had known that she was rich, but I was still taken by surprise when she perensted me with a yatch for my birthday.
-      - He had liked her a lot until he found out about the bodies buried in her cellar.
+      - I `had known` that she was rich, but I `was still taken` by surprise when she perensted me with a yatch for my birthday.
+      - He `had liked` her a lot until `he found` out about the bodies buried in her cellar.
     - With dynamic verbs, use the past perfect progressive for this purpose instead.
 
 - 2. When a sentence refers to a single action or event, this tense indicates that the action or event took place
      was in effect at some time prior to the time under discussion.
      - Examples
-       - We had heard all his stories a million times already.
-       - I had never seen such a mess.
-       - We were told that the cup had belonged to the Borgia family.
+       - We `had heard` all his stories a million times already.
+       - I `had never` seen such a mess.
+       - We `were told` that the cup `had belonged` to the Borgia family.
 
 - 3. Passive Formation
 
      - Use the past perfect of `be` (`had been`) followed by the past participle of the action verbs.
      - Examples
 
-       - We had given him enough chances (Active Voice)
-       - He had been given enough chances (Passive Voice)
+       - We `had given` him enough chances (Active Voice)
+       - He `had been given` enough chances (Passive Voice)
 
-       - He had driven her to appointment countless times (Active Voice)
-       - She had been driven to appointment by him countless times. (Passive Voice)
+       - He `had driven` her to appointment countless times (Active Voice)
+       - She `had been driven` to appointment by him countless times. (Passive Voice)
+
+### Past Perfect Continuous
+
+- Also called the past perfect continuous. Formed by combining the `past form` of the auxiliary verb `have` (`had` in
+  all cases, frequently contracted to `'d`), the auxiliary verb `been`, and the `present participle` of the action verb.
+- This Tense can only be used with dynamic verbs.
+- 1. Use it to indicate that some action or event A that began in the past was still ongoing when some later action or event B occured.
+
+  - Examples
+
+    - We `had been stirring` the potion for just a few minutes when it `began` to spew green smoke.
+      [the stirring was still in progress when the spewing began]
+    - He `had been waiting` on tables for years before he finally `got` his big break.
+      [the server job was still in progress at the point that the studio came calling]
+
+  - This tense doesn not work with stative verbs. The following examples are incorrect.
+    - Examples
+      - I `had been knowing` that she was rich but... (should be `had known`)
+      - He `had been liking` her a lot until... (should be `had liked`)
+    - Use the Past Perfect instead in case of Dynamic Verbs
+
+- 2. Use it to indicate that a single action or event took place over some period of time.
+
+  - Examples
+    - I could not report on what `had been said` at the teleconference because I `had been playing` online solitaire the whole time.
+    - They `had been living` in a commune before they `started` their family.
+
+- 3. Passive Formation
+
+  - As with the present perfect continuous, the passive voice becomes very clumsy in this tense and is not recommended.
+  - It consists of the `past perfect progressive` of `be` (`had been being`) followed by the `past participle` of the action verb.
+  - Examples
+
+    - Women `had been chasing` him for years (Active Voice)
+    - He `had been being chased` by women for years. (Passive Voice)
+
+    - Beavers `had apparently been chomping` on the tree trunks (Active Voice)
+    - The tree trunks `had apparently been being chomped` on by beavers. (Passive Voice)
