@@ -575,3 +575,21 @@
       - I am confident that the silver will have been polished to perfection.(Passive Voice)
       - She will have written over a thousand pages of drivel on that subject. (Active Voice)
       - Over a thousand pages of drivel on that subject will have been written by her.(Passive Voice)
+
+### Future Perfect Progressive
+
+- Also called future perfect continuous.
+- Formed by combining the auxiliary verbs `will have been` (or `be going to have been`) with `present participle` at the action verb.
+- 1. Use it to indicate that an action of event will be either ongoing or completed at some later time.
+
+  - Examples
+    - In another few months, I `will have been living` in this city for more than half of my life.
+    - Expect him to arrive grumpy: he `will have been travelling` for thirty-six hours.
+    - This is ridiculous: we are soon `going to have been waiting` over forty minutes for the bus.
+
+- 2. Passive Formation
+  - Again, the passive voice works poorly here. It consists of the `future perfect progressive` of `be` (`will have been being`)
+    followed by the past participle of the action verb.
+  - Examples
+    - They will have been showing all their artwork to the guests (Active Voice)
+    - All their artwork will have been being shown to the guests.(Passive Voice)
