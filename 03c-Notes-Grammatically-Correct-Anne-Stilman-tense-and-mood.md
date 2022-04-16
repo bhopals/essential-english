@@ -418,3 +418,24 @@
 - Examples
   - They finished on time / They didn't finish on time.
   - We gave it our best shot / We didn't give it our best shot.
+
+### Habitual Past
+
+- Formed by combining the auxiliary verb would with the base form of the action verb.
+- Use it to describe something that occured in the past on a regular or at least occassional basis.
+- Examples
+
+  - In my university days, I `would` sleep till noon.
+  - She `would` always bring a bottle of wine when she came for dinner.
+  - On summer nights at the lake, we `would` lie on the dock and gaze at the stars.
+
+- An important note here: `would` is multi-purpose verb that plays several roles, and in this context is acting as the past tense of `will`.
+- The same combination of `would` plus the base form of the action verb is also used in both the
+  `conditional simple` and `future in the past`, which have a very different meanings.
+  The context, however, differentiates these three uses.
+
+- (A) The above examples make it clear that the scenarios are ones that occured repeatedly in the past,
+- (B) whereas, a conditional sentence would contain a word such as `if` to indicate the future.
+  `If I didn't have to go to work tomorrow, I would sleep till noon.`
+- (C) Future in the past would include a reference to both past and future.
+  `She told me this morning that she would bring a bottle of wine tonight.`
