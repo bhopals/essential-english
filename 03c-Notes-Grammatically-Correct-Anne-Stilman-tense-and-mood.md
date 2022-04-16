@@ -402,3 +402,19 @@
 
     - Beavers `had apparently been chomping` on the tree trunks (Active Voice)
     - The tree trunks `had apparently been being chomped` on by beavers. (Passive Voice)
+
+### Past Emphatic
+
+- Formed by combining the `simple past` of the auxiliary verb `do` (`did` in all cases) with the `base form` of the action verb.
+- As with the present emphatic, it refers to the same time of action as the simple past but carries more weight.
+- Use it to stress a point, particularly in contradiction to a previous statement.
+- Examples
+
+  - Why didn't you return my call? `I did return` it, you weren't home. [more emphatic than `I returned`]
+  - I don't think she knew about the concert. `She did know` - she told me she was planning to go.
+    [more emphatic than `she knew`]
+
+- Note that the negative of a statement in the simple past also takes this form, but in this case there is `no implication of emphasis`.
+- Examples
+  - They finished on time / They didn't finish on time.
+  - We gave it our best shot / We didn't give it our best shot.
