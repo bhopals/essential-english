@@ -157,3 +157,63 @@
       - If I `were` you, I would .... [insert helpful advise of choise here]
 
     - It is common error to use `was` in such sentences (If I `was` younger, If I `was` you) - INCORRECT
+
+### Unreal conditional in the PAST
+
+- Describes some hypothetical event that did not in fact ever happen, but if it had happened,
+  then a hypothetical result would have followed.
+- Unlike the real conditional in the present, which allows for the possibility that the hypothetical event
+  might later come true, in this case it is too late and fulfillment is IMPOSSIBLE.
+- Conditional Sentences in the past are the HYPHOTICAL equivalent of the past perfect tense, which states that
+  actual event A occured before actual event B occured.
+  In this case, the message is that if hypothetical event A had occured at a certain time, then
+  hypothetical event B would have resulted.
+  The verb in the `if` clause (`Conditions`) takes the PAST PERFECT TENSE (`had` + PAST Participle), and the
+  verb in the `result` clause takes the CONDITIONAL PERFECT (Would have + PAST PARTICIPLE)
+- Examples
+
+  - If I `had known` you were coming, I `would have baked` a cake.
+  - If he `had listened` to his mother, he `would have applied` to medical school.
+  - If she `had realized` that the tiara that had been left to her was set with genuine diamonds,
+    she `would not have sold` it for tow dollars at the garage sale.
+
+- A number of other constructions for unreal past conditional sentences are presented below:
+
+  - 1. Conditional sentences with no explicit `if` clause
+    - A conditional sentence does not have to have an explicit `if` clause:
+      - Example
+        - In hindsight, he realized it `would have been` a good idea to drill drainage holes in
+          the planters before mounting them on the balcony railing.
+  - 2. Conditional sentences with Progressive Verbs
+
+    - As with the conditional in the present, these sentences can contain verbs in the PROGRESSIVE form,
+      to indicate something ongoing. A PROGRESSIVE VERB in the `if` clause takes the past perfect progressive,
+      while that in the result clause take the conditional perfect, formed by the auxiliary verbs would have
+      plust the past participle of the action verb.
+    - Examples
+
+      - If I `had been paying` more attention, I `would have stopped`
+        the hairdresser before he applied the airplance glue.
+      - If they `had been sleeping` at the time, they `would never have heard` the bear going through the garbage.
+
+    - If the progressive verb is in the result clause, it takes the conditional perfect progressive, formed by
+      the auxiliary verbs` would have been + the present progressive`, formed the auxiliary verbs
+      `would have been + present participle` of the action verb.
+      The verb in the `if` clause takes the `past perfect`.
+
+      - Examples
+        - If she `had married` her elderly admirer, she `would have been living` in the lap of luxury.
+          [big mistake that she went instead for the handsome young artist]
+        - You` would not have been laughing` if it `had happened` to you. [A little empathy would be nice]
+        - If we had missed that bus, we `would have been waiting` for the next one for an hour.
+          [good thing I mase us run for it.]
+
+  - 3. Use of the correct participle with irregular verbs
+    - A common error in the construction is to use the `past form` (Second form) of the verb
+      instead of the `past participle` (Third form)
+    - The following examples are INCORRECT
+      - I `would have went` if you `had asked` me to [should be - I `would have gone`]
+      - If I `had not stopped` her, she `would have drank` the whole thing.
+        [should be - she `would have drunk`]
+      - You could not possible `have wrote` that yourself.
+        [should be - you could not possibly `have written` that yourself]
