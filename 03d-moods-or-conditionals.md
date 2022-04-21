@@ -236,3 +236,36 @@
   - If I `were going` your way, I `would give` you a lift.
   - If he `were graduating` in time, he `would be joining` you at the firm this year.
   - If I `were not playing `darts tonight, I `would gladly join` you in the game of chess.
+
+## Table - Conjugation of the VERB - `TO WRITE`
+
+- PRESENT
+
+  - SIMPLE - I write
+  - PROGRESSIVE - I am writing
+  - PERFECT - I have written
+  - PERFECT PROGRESSIVE - I have been writing
+  - EMPHATIC - I do write
+
+- PAST
+
+  - SIMPLE - I wrote
+  - PROGRESSIVE - I was writing
+  - PERFECT - I had written
+  - PERFECT PROGRESSIVE - I had been writing
+  - EMPHATIC - I did write
+  - HABITUAL PAST - I would write
+    - Whenever I had the time, I would write him a letter (I did this on a number of occasions)
+
+- FUTURE
+
+  - SIMPLE - I will write
+  - PROGRESSIVE - I will be writing
+  - PERFECT - I will have written
+  - PERFECT PROGRESSIVE - I will have been writing
+  - FUTURE IN THE PAST - I would write
+
+    - I promised that I would write him a letter. (And at some point I did so)
+
+  - Conditiona Simple
+    - If I had time, I would write him a letter (But I don't have time now so I won't)
