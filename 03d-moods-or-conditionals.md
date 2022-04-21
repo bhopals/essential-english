@@ -217,3 +217,22 @@
         [should be - she `would have drunk`]
       - You could not possible `have wrote` that yourself.
         [should be - you could not possibly `have written` that yourself]
+
+### Unreal conditional in the FUTURE
+
+- Describe a hypothetical event in the future where the intention is to emphasize that fulfillment of the event
+  is uncertain, unlikely or impossible.
+- The verb in the `if` clause takes the conditional simple (would + base form) of the action verb.
+- Example (Unlikely / Impossible)
+  - I may have to make a business trip to Tokyo. Wow that sounds exciting - if you `went`, when `would` you `go`?
+- Example (If the trip were given, this would be worded as `When will you go`)
+  - I may have to make a business trip to Tokyo. Wow that sounds exciting - if you `went`, when `will` you `go`?
+- Example (Unlikely / Impossible)
+  - If I had time next week, I would clean the garage. [I won't have time so it wont be done]
+- Example (likely situation)
+  -If I have time, I will clean the garage
+
+- One or both clauses can take progressive form instead of the simple form:
+  - If I `were going` your way, I `would give` you a lift.
+  - If he `were graduating` in time, he `would be joining` you at the firm this year.
+  - If I `were not playing `darts tonight, I `would gladly join` you in the game of chess.
