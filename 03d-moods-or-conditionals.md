@@ -109,3 +109,51 @@
   - Progressive form (I would be doing)
   - Perfect form (I have have done)
   - Perfect Progressive form (I would have been doing)
+
+### Unreal conditional in the PRESENT
+
+- Describes a scenario whereby `if` hypothetical event A (the condition) existed at the time,
+  then a hyphotical event B (the result) would folow.
+
+  - Example
+    - If I `lived` downtown, I `would bike` to work. [but I don't live]
+    - If I knew what was wrong, I would fix it. [but I don't know]
+    - If she had any brain, she would see what he was up to [too bad she does not]
+    - If I had a hammer, I would hammer in the morning. [but I don't have one, so world peace will have to wait :D]
+
+- A number of constructions for unreal present conditional sentences are presented below.
+
+  - 1. Conditional sentences with no explicit `if` clause
+
+    - A conditional sentence does not have to contain an explicit if clause; the if can be implied.
+    - Example
+      - (If) A law that `required` recently licensed drivers to have no more than one passenger
+        under the age of nineteen `would reduce` the number of vehicle accidents involving teenagers.
+
+  - 2. Conditional sentences with progressive verbs
+
+    - Conditional sentences can contain verbs in the progressive form, to indicate a hypothetical event that,
+      if true, would be ongoing at this time. A PROGRESSIVE VERB in the `if` clause takes the PAST PROGRESSIVE Form
+      while the verb in the result clause takes the conditional simple, formed by would plus the base form of the
+      action verb
+    - If/When/Unless + PAST PROGRESSIVE, SUBJECT + Would + PRESENT SIMPLE
+    - Examples
+      - If they `were living` together, they `would save` a lot of money. [too bad they can't stand each other]
+    - If the progressive verb is in the result clause, it takes the conditional progressive, formed by would
+      be plus the present participle of the action verb. The verb in the IF clause takes the SIMPLE PAST.
+    - Examples
+      - If he `understood` the urgency, I am sure he `would be helping` you. [but he does not so you are on your own]
+      - If I `had` the energy, I `would be tidying` the house right now. [No enery now, so may be next week]
+
+  - use of `was` versus `were` in the subjunctive. For the `if` clause, a garmmatical quirk associated with the
+    subjunctive is that when it is applied to the verb `to be`, the past form for the first and third person.
+    (I `was`, he `was`, she `was`, it `was`) ==> All CHANGES to `WERE` (I `were`, he `were`, she `were`, it `were`)
+
+    - Examples
+
+      - Perhaps this software would work if the moon `were` in the right phase.
+      - If here `were` younger, it would be a different story.
+      - He treats his girlfriend as if she `were` a child.
+      - If I `were` you, I would .... [insert helpful advise of choise here]
+
+    - It is common error to use `was` in such sentences (If I `was` younger, If I `was` you) - INCORRECT
