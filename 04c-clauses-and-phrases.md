@@ -101,13 +101,13 @@
   - When an adverb clause introduces the sentence (as this one does), it is set off with a comma
 
   - Adjectival Clause
-  - A clause that does the work of an adjective and describes a noun.
-  - It is usually introduced by a relative pronoun (who, whom, whose, that, which)
-  - Example
-    - I went to the show that was very popular
-  - This kind of clause is used to provide extra information about the noun it follows.
-  - This can be used to define something (a defining clause), or provide unnecessary, but interesting
-    added information (a non-defining clause)
+    - A clause that does the work of an adjective and describes a noun.
+    - It is usually introduced by a relative pronoun (who, whom, whose, that, which)
+    - Example
+      - I went to the show that was very popular
+    - This kind of clause is used to provide extra information about the noun it follows.
+    - This can be used to define something (a defining clause), or provide unnecessary, but interesting
+      added information (a non-defining clause)
 
 - An Example of Defining Relative Clause
 
