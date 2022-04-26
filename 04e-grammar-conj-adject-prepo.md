@@ -36,3 +36,25 @@
     - `for`
     - Expresses an inference
       - Example - Something certainly fell in, `for` a I heard a splash
+
+## Articles
+
+### When the Article `a` is used
+
+- Before a word beginning with a consonant sound.
+  - Examples - a boy, a country, a woman
+- Before the long sound of `u`
+  - Examples - a university, a useful thing, a eulogy, a unit, a ewe
+- Before `o` when pronounced with `w` sound
+  - Examples - a one-eyed deer, a one-pound note
+- Before nouns starting with a `h`
+  - Examples - a horse
+
+### When the Article `an` is used
+
+- Before a vowel
+  - Examples - an ocean, an uncle, an old man
+- Before a silent `h`
+  - Examples - an heir, an hour, an honest man
+- Before a single consonants when yhey begin with a vowel sound
+  - Examples - an M.S.
