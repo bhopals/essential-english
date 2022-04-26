@@ -87,3 +87,18 @@
   - Examples
     - `Snowboarding` is Ethan's favorite activity. (GERUND)
     - The `screeching` owl kept me awake all night (PARTICIPLE)
+
+### Active Voice
+
+- When we express an idea by giving importance to the `doer`, the sentence is written in the active form.
+- That means that the doer of the action is active.
+- Example
+  - He wrote a letter.
+
+### Passive Voice
+
+- When we express an idea giving importance to the `action` rather than to the `doer`, the sentence
+  is written in the passive form.
+- That means the `doer` of the action is not active but passive.
+- Example
+  - A letter was writter by him.
