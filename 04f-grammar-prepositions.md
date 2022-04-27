@@ -80,3 +80,13 @@
       - Susan is the `brightest` of all the students in class.
       - Carl is the `nimblest` player on the team.
       - That was the `most beautiful` sunset I have ever seen.
+
+### Adverbs
+
+- Adverbs often answer questions like:
+  - How?
+  - Why?
+  - Where?
+  - When?
+  - To what extent?
+  - Under what circumstances?
