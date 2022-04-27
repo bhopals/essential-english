@@ -20,19 +20,62 @@
     - `in front of` and `on behalf of` are prepositions made up of three words.
 
 - Prepositions
+
 - 1. Prepositions of Time
 
-  - Examples - `on`, `in`, `at`, `since`, `for`, `ago`, `before`, `to`, `past`, `until`, `till`, `by`
+  - `on`, `in`, `at`, `since`, `for`, `ago`, `before`, `to`, `past`, `until`, `till`, `by`
+  - Examples
+
+    - on Sunday
+    - in July, in winter, in the evening, in 2009, in an hour
+    - at night, at half past ten
+    - since 1960
+    - for 4 years
+    - 3 years ago
+    - before 2007
+    - ten to four
+    - five past six
+    - from Tuesday to Saturday, from Tuesday till Saturday
+    - He is on holiday until Friday
 
 - 2. Prepositions of Place
 
+  - `in`, `at`, `into`, `on`, `by`, `next to`, `beside`, `under`, `below`,`over`, `above`, `across`,
+    `though`, `from`, `to`, `towards`, `onto`
   - Examples
-    - `in`, `at`, `into`, `on`, `by`, `next to`, `beside`, `under`, `below`,
-    - `over`, `above`, `across`, `though`, `from`, `to`, `towards`, `onto`
+
+    - in the kitchen, in London, in the book, in the car, in a taxi, in the picture, in the world
+    - at the door, at the station, at the table, at a concert, at the party, at the cinema, at school, at work
+    - go into the kitchen, go into the house
+    - the picture on the wall
+    - London lies on the Thames
+    - on the table, on the left, on the first floor, on the bus, on a plane, on TV, on the radio
+    - Jane is standing by the car, Jane is standing next to the car, Jane is standing beside the car.
+    - The bag is under the table
+    - The fish is below the surface
+    - Put a jacket over your shirt, over sixteen years of age, walk over the bridge, climb over the wall
+    - a path above the lake
+    - walk across the bridge, swim across the lake
+    - drive through the tunnel
+    - a flower from the garden
+    - go to the cinema, go to London, go to bed
+    - go 5 steps towards the house
+    - jump onto the table
 
 - 3. Other Important Prepositions Usages
 
-  - Examples - `from`, `of`, `by`, `on`, `in`, `off`, `out of`, `by`, `at`, `about`
+  - `from`, `of`, `by`, `on`, `in`, `off`, `out of`, `by`, `at`, `about`
+  - Examples
+    - a present from Jane
+    - a page of a book, a picture of a palace
+    - a book by Mark Twain
+    - on foot, on horseback, get on the bus
+    - get in the car
+    - get off the train
+    - get out of the taxi
+    - prices have risen by 10 percent by car, by bus
+    - she learned Russian at 45
+    - we were talking about you
 
 - 4. Postponed Prepostions
 
