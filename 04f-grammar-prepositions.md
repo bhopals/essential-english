@@ -19,6 +19,59 @@
     - `in between` and `because of` are prepositions made up of two words.
     - `in front of` and `on behalf of` are prepositions made up of three words.
 
+- Prepositions
+- 1. Prepositions of Time
+
+  - Examples - `on`, `in`, `at`, `since`, `for`, `ago`, `before`, `to`, `past`, `until`, `till`, `by`
+
+- 2. Prepositions of Place
+
+  - Examples
+    - `in`, `at`, `into`, `on`, `by`, `next to`, `beside`, `under`, `below`,
+    - `over`, `above`, `across`, `though`, `from`, `to`, `towards`, `onto`
+
+- 3. Other Important Prepositions Usages
+
+  - Examples - `from`, `of`, `by`, `on`, `in`, `off`, `out of`, `by`, `at`, `about`
+
+- 4. Postponed Prepostions
+
+  - A preposition that comes after its object.
+  - The danger thati was warning you `about` is very real.
+
+  - Examples
+    - about, by, out, above, despite, outside, across, down, over, but
+    - after, during, past, against, except, since, along, for, through, onto
+    - among, from, throughout, around, in, till, at, inside, to, withing
+    - before, into, toward, behind, like, under, below, near, underneath
+    - beneath, on, upon, of, until, beside, off, up, between, beyond, by, with
+
+- Correct us of certain Prepositions
+- 1. `at` or `in`
+
+  - `at` and `in` are prepositions of location. They will tell where something is located.
+  - `at` indicates a point where something is located.
+    - I waited for john `at` the bank
+  - `in` indicates an area where where something is located.
+    - He lives `in` the USA.
+
+- 2. `by` or `with`
+
+  - `by` is used for doer of the action, and `with` is the instrument with which the action is done.
+    - The drawing was made `by` the child `with` crayons.
+
+- 3. `between` and `among`
+
+  - `between` is used for two persons or things, and `among` is used for more that two.
+    - The two brother had enough money `between` them.
+    - Divide the chocolates `among` your friends.
+
+- 4. `in` or `into`
+
+  - `in` is used with things at rest. `into` is used with things in motion.
+    - The baby is sleeping `in` the cradle.
+    - He jumped `into` the pool.
+
 ### Adjectives
 
 - Words used to describe nouns or pronouns
