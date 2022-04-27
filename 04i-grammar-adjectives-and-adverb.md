@@ -1,112 +1,71 @@
-### Pronoun
+### Adjectives
 
-- A word used in place of a noun.
-- A pronoun has an antecedent
-  - A specific noun for which the pronoun is "filling in".
-- Refers to something that is already mentioned in another sentence or piece of text
-- Example - James is a good boy. `He` runs every day.
+- Words used to describe nouns or pronouns
+- Modify nouns or pornouns by describing, identifying, or quantifying them.
+- Answer the following questions:
+  - What kind?
+  - Which?
+  - How many?
+- Examples
 
-- PRONOUN TYPES
+  - He walked into the `dark` room.
 
-  - 1. Personal Pronoun
+- Types of ADJECTIVES
 
-    - Refers to specific persons, places or things
-    - Changes from depending on the noun.
+  - Possessive Adjectives
+
+    - Identical to possessive nouns
     - Examples
-      - `I`, `me`, `we`, `us`, `you`, `he`, `she`, `it`, `they`, `them`
+      - `my`, `our`, `your`, `his`, `her`, `its`, `their`
+      - What is `your` `favorite` color?
 
-  - 2. Possessive Pronoun
-
-    - Indicate ownership of or relation to a specific object or person.
+  - Demonstrative Adjectives
+    - Identical to demonstrative nouns
     - Examples
-      - Singular - `my`, `mine`, `yours`, `hers`, `his`, `its`
-      - Plural - `ours`, `yours`, `theirs`
-      - This is `my` house; `my` wife and I live here with `our` kids.
-
-  - 3. Demonstrative Pronoun
-
-    - Demonstrates or points out objects
+      - `this`, `that`, `these`, `those`
+      - `This` is my house.
+  - Interrogative Adjectives
+    - identical to interrogative nouns
     - Examples
-      - `this` (nearer to the person)
-      - `that` (farther away)
-      - `these` (plural of this)
-      - `those` (plural of that)
-      - I love `this` app
+      - who, whom, which, what
+      - `Who` is your brother
+  - Attribute Adjectives
+    - Found immediately before the words they modify.
+    - Example - He was reading a `boring` book.
 
-  - 4. Distributive Pronoun
+### Degree of Comparison
 
-    - Refers to people or things one at a time
-      - `Each` - denotes every one of a number of a persons or things
-      - `Either` - one or the other of two
-      - `Neither` - not the one nor the other of two
-
-  - 5. Interrogative Pronoun
-
-    - Helps form questions
+- Adjectives have three degrees of comparison.
+- These three degrees of comparison show relationships between or among the words they modify.
+- Threes Types of Degree - POSITIVE, COMPARATIVE, SUPERLATIVE
+- TYPES
+  - POSITIVE DEGREE
+    - Expresses a quality without a comparison; a statement is made concerning only one entity.
     - Examples
-      - `Who` - inquires about persons (nominitive case)
-      - `Whom` - accusative case
-      - `Whose` - possessive/genitive case
-      - `Which` - inquires about persons or things
-      - `What` - inquiees about things only
-
-  - 6. Relative Pronoun
-
-    - Links one phrase to another
-    - Words as a pronoun and as a conjunction
-    - Must be of the same number and person of its antecedent
+      - The tree is `tall`.
+      - The grass is `green`.
+      - The water is `cold`.
+  - COMPARATIVE DEGREE
+    - Expresses a degree higher or lower than the positive. It is used to compare two things, and the
+      inflectional suffix is usually `er`
     - Examples
-      - `Whoever` refers to the subject of a sentence.
-      - `Whomever` refers to the object of a verb.
-
-  - 7. Compound Relative Pronoun
-
-    - Formed by adding `ever`, `so`, `so ever` to who which or what.
+      - Roger is `shorter` than Bill.
+      - She is `younger` of the two sisters.
+      - She sings `better` than anyone else in the choir.
+  - SUPERLATIVE DEGREE
+    - The highest or lowest degree when comparing more than two persons or things.
+    - The inflectional suffix for the superlative degree is usually `est`.
     - Examples
-      - `Whosoever`
-      - `Whichever`
-      - `Whatever`
-      - `Whoever`
-      - `Whoso`
-      - `Whatsoever`
+      - Susan is the `brightest` of all the students in class.
+      - Carl is the `nimblest` player on the team.
+      - That was the `most beautiful` sunset I have ever seen.
 
-  - 8. Indefinite Pronoun
+### Adverbs
 
-    - Refers to unspecified people or things in a general way
-    - Examples
-      - `All`, `everybody`, `Everyone`
-      - `Another`
-      - `Anybody`, `nobody`
-      - `None`, `some`, `few`, `many`
-
-  - 9. Intensive or Reflexive Pronoun
-    - The action reflects back on the subject.
-    - Singular - `myself`, `yourself`, `herself`
-    - Plural - `ourselves`, `yourselves`, `themselves`
-    - Examples
-      - She hurt `herself` while jumping on the bed.
-
-- 10. Emphatic Pronoun
-  - Used for emphasis
-    - I will go myself.
-    - I myself washed it.
-- 11. Reciprocal Pronoun
-  - Individual members of a collective subject act on the other members of the group
-  - Examples - `One another`, `each other`
-- 12. Negative Pronoun
-  - Examples
-    - `nobody`, `no one`, `neither`, `none`, `nothing`
-- 13. Quantifier
-
-  - Example
-    - `Some`, `any`, `something`
-
-- Subject Pronoun
-  - Serves as the subject of the sentence
-  - Examples
-    - I went to the store.
-    - He walks to school every day.
-- Object Pronoun
-  - Recievs the action of the verb.
-  - Examples
-    - My mother gave me some money.
+- Adverbs often answer questions like:
+  - How?
+  - Why?
+  - Where?
+  - When?
+  - To what extent?
+  - Under what circumstances?
