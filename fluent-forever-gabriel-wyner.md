@@ -1,10 +1,17 @@
 ## Book - Fluent forever - Gabriel Wyner
 
-### CH#3
+- Forvo.com (Free Recordings of Words)
+- Fluent-Forever.com
+- https://apps.ankiweb.net/ (Flash Cards)
+- https://rhinospike.com/ (Foreign langauge audio on demand)
+- https://www.youtube.com/user/sirionn (Fluent Forever YouTube Channel)
+- https://vocaroo.com/ (Record and Listen your voice)
+
+### CH#3 - Sound Play
 
 - Pronunciation Practice - https://blog.fluent-forever.com/chapter3/
 
-- TRAIN YOUR TOUNGE (Back-Chaining Technics)
+- TRAIN YOUR MOUTH (Back-Chaining Technics)
 - TRAIN YOUR EYES
 - TRAIN YOUR EARS
 
@@ -67,5 +74,10 @@
   - Back Chaining means, start from the end and keep adding one sound at a time.
     Then try the sound, once comfortable, add another, and keep going.
 
-- TRAIN YOUR EARS
+- TRAIN YOUR EYES
+
   - We should be good at internalizing patterns
+  - Our Eyes are a powerful source of input. If we are not careful, they can trick our ears into
+    a state of inattention, and inattention can prevent us from learning the patterns we need.
+
+- We should stress excellent pronunciation habits.
