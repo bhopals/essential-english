@@ -101,3 +101,18 @@
 - Kids do possess some innate advantages over adults.
 - In the beginning student can still take his rudimentary knowledge of grammar rules and use it to
   understand our flower story.
+- It is tremendously fun way to maintain a language
+- With a bit more effort you can steadily improve and advance-language skill
+- I am sure you are going to improve at breakneck speed
+- Billingual brains are measurably different than monolingual brains.
+- Billingual people are better at focusing on tasks and ignoring distractions
+- The billingual effect is a kind of learned intelligence, and by picking up a new language, you get it too.
+- Billingual brains are more resistant to the wear and tear of age.
+- Economics and mental benefits of learning a language
+
+### English Tutors
+
+- https://www.verbling.com/
+- https://www.busuu.com/ (free)
+- https://www.mylanguageexchange.com/ (free)
+- https://italki.com (paid)
