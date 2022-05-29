@@ -81,3 +81,23 @@
     a state of inattention, and inattention can prevent us from learning the patterns we need.
 
 - We should stress excellent pronunciation habits.
+
+### CH#4 - Word Play and the Symphony of a Word
+
+- Media's effect on societal opinion.
+- Learn to absorb words into your vocabulary
+- Memorize something by rote repition
+  - Rote learning is a memorization technique based on repetition.
+
+### CH#5 - Sentence Play
+
+- You may not realize it, but there is a littler machine hiding withing your brain.
+  It runs off of sentence it hears, absorbs their patterns, and after a litter while, spits out
+  perfectly grammatical language without a moment's effort or thought.
+- Physical objects, body language, and interaction all serve as a sort of universal translator that
+  helps kids make sense of their first words.
+
+- To learn a language, enough comprehensible input from people is required.
+- Kids do possess some innate advantages over adults.
+- In the beginning student can still take his rudimentary knowledge of grammar rules and use it to
+  understand our flower story.
