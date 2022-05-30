@@ -64,3 +64,6 @@
   - Please [repeat, clarify, rephrase] that.
   - I didn't [hear, understand, get, catch] that.
   - Could you say that [again, more slowly, more loudly, in other words, in another way]
+  - This isn't clear to me - could you go over it one more time?
+  - I think I understand, but let me repeat it back to you.
+  - This is important, so let me be sure I understand you.
