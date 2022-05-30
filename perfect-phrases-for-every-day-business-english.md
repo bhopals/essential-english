@@ -61,9 +61,59 @@
   - Have I made myself clear, expressed myself clearly, been clear enough
 
 - PHRASES TO CLARIFY ANSWERS
+
   - Please [repeat, clarify, rephrase] that.
   - I didn't [hear, understand, get, catch] that.
   - Could you say that [again, more slowly, more loudly, in other words, in another way]
   - This isn't clear to me - could you go over it one more time?
   - I think I understand, but let me repeat it back to you.
   - This is important, so let me be sure I understand you.
+
+- Observe,listen and learn
+- Do not preassume anything
+- This will certainly streamline my work.
+- I like that, let me think it over a little.
+- Sounds like [a plan, an excellent idea]; it could work.
+- What is the [deadline for, time line on] that [job, project, work]?
+- Time is of the essence
+
+- Engaging Smile
+- Which topics are taboo -
+  - such as inappropriate humour, sex, politics, religion, salaries, personal financial issues.
+- Sometimes smiling and being friendly and polite are all it takes to ease the tension.
+- small talk / chitchat / open-ended questions
+- common conversational ground
+
+- PHRASES ABOUT THE WEATHER
+
+  - Do you know the weather report for [tomorrow, the weekend, Sunday]?
+  - The weather report predicts a lot of [rain, snow, wind, ice, hail, sun] this weekend
+  - What a [cold, unusually warm, snowy] winter this has been?
+  - Is it supposed to rain this weekend?
+  - I would like to go to beach tomorrow, but it is supposed to be [windy, cloudy, windy, cold, rainy]
+  - I have never seen so many [cold, hot, rainy, humid] days in a row.
+  - Do you think there will be a break in the [heat, cold, snow, humidity]?
+  - We need some [sun, rain, warm weather, cooler weather]
+
+- GENERAL PHRASES
+
+  - What is your take on ...?
+  - What do you do [in your free time, in your leisure time, on weekends, on vacation]
+  - I have been to street fair last week. Have you ever been to one around here?
+  - I never learned to play a musical instrument. I always wanted to play the [piano, guitar, violin].
+    Do you play any instrument?
+  - It is almost five o'clock, and I can't wait to [call it a day, get a move on]
+  - This week seems so long...
+  - I haven't seen you for a couple of day. Have you been [on vacation, out of town, on a business trip,
+    under the weather]?
+
+- ENDING A CASUAL CONVERSATION
+  - Well, [my break is over, it is getting late, the lunch hour went quickly, I have to get
+    back to my desk]
+  - I am [sorry, afrain] I have to [go, leave, get back]
+  - I am sorry I have to run to a meeting
+  - I am sorry I have to go, but let's talk more this afternoon
+  - Please give me a moment
+  - I need a minute to think of a word
+  - May I have a second or two to think?
+  - I'd like to continue, please
