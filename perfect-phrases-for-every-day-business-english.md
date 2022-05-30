@@ -108,6 +108,7 @@
     under the weather]?
 
 - ENDING A CASUAL CONVERSATION
+
   - Well, [my break is over, it is getting late, the lunch hour went quickly, I have to get
     back to my desk]
   - I am [sorry, afrain] I have to [go, leave, get back]
@@ -117,3 +118,50 @@
   - I need a minute to think of a word
   - May I have a second or two to think?
   - I'd like to continue, please
+  - paying a compliment
+  - excessive complementing a person is flattery or over-praise
+
+- PHRASES USED TO COMPLIMENT
+
+  - That was an excellent presentation
+  - I'd like to compliment you on your [report, presentation, performance, idea]
+  - Your report was [impressive, very informative, exceptional, wonderful]
+  - You are a dynamic presenter.
+  - I was impressed with your [report, presentation, performance]. It was [clear, complete, accurate, on target]
+  - I wish I could [write, present, speak] that well.
+  - You speak so easily and clearly at meetings.
+  - Your ideas for the project are [useful, refreshing, thought-provoking]
+  - Your feedback was helpful
+  - That was a valuable point at the meeting. Thank you for sharing it.
+
+- PHRASES USED TO ACCEPT COMPLIMENTS
+
+  - Thank you.
+  - Thanks.
+  - Thank you, it is nice of you to say so.
+  - Thanks for saying so.
+  - Thank you, I really worked hard on this report.
+  - Thanks, I really appreciate [that, your comments, your interests, your input, your feedback]
+  - I am glad you [liked, enjoyed, learned from] the [report, presentation, meeting]
+  - I am really working on my [English pronunciation skills, writing skills]. Thank you for noticing.
+  - I appreciate your comments/feedback
+
+- We are from the cultures in which modesty and humility are important
+
+#### Giving, Accepting, and Refusing Invitations
+
+- RSVP - Respond if you please
+- The host or hostess needs a headcount to inform caterers about food quantities and arrange seating,
+- The guest of honor
+- potluck dinner
+- Let's plan on having lunch this week?
+
+- PHRASES USED TO REFUSE INVITAIONS
+  - I am sorry, I have a previous engagement.
+  - I am sorry, I [am busy, am tied up, have another appointment]
+  - I am sorry, I'm booked all week with a conference
+  - Sorry, I can't make it. How about another time?
+  - I can't tomorrow, but I can another day?
+  - I am sorry, I can't go tomorrow. Would next week work for you instead?
+  - How about a rain check?
+  - Sorry I can't make it. Thank you for inviting me.
