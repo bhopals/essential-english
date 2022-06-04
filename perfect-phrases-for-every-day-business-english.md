@@ -202,4 +202,21 @@
 - I had few questions I was hoping you could address.
 - I am not trying to get priviliged information
 - I am not trying to do anything unethical
--
+
+#### Following up
+
+- In marketing, there is a saying "Love at fifth sight"
+
+- Can I treat you to a bite next time?
+- Next time, lunch is on me.
+- Next time, I hope you let me foot the bill.
+- Get a bite to eat after work
+- Get something to eat after work
+
+- FOLLOW UP IMMEDIATELY AFTER YOUR REQUEST
+
+  - I am checking in to make sure you received the books I sent last week.
+  - Since I didn't hear back from you, I am calling to make sure you received my e-mail and the attachments.
+
+- Would you like to get a glass of wine so I can thank you for the lead?
+- I am having a get-together at the office to celebrate. Would you like to join us?
