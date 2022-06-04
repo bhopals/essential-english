@@ -317,3 +317,12 @@
 - Would you like me to `proof` what you have written.
 - You can always use an `extra pair of eyes`.
 - I would say this is correct `off the top of my head`, but let me proof it carefully before you send it.
+
+#### Moving up
+
+- `shoot some hoops`
+- `hand-printed` thank-you note
+- `letters of recommendation`
+- It `fit the situation`, and that makes a difference especially in a c`ompetitive arena` such as
+  applying to schools, competing in the job market, and other situations in which
+  `standing out in a crowd` makes a difference in your chances to `come in first at the finish line`.
