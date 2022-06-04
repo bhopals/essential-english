@@ -461,3 +461,65 @@
 - `tangent` - topic other than the topic being discussed
 
 #### Teams and Department Meetings
+
+- `tight agendas`
+- `cross-functional` Teams
+- Sometimes meetings are called to share information so that `LEFT hand knows what the RIGHT hand is DOING.`
+- The meeting should last a half hour
+- I am afraid that new project has created (a `bottleneck`/ an objection from management/
+  an `acceptable deadlock`).
+
+- `bottleneck` - a blockage, a slowdown, a `deterrent` to progress
+- `deadlock` - standstill, decision cannot be reached, agreement cannot be made.
+- `The Left hand knows what the right hand is doing` - improve communication and know what all are doing.
+
+#### Teleconferencing, Videoconferencing, and Webinars
+
+- With people withing comapnies working worldwide and companies working withing a global market,
+  `face-to-face` meetings are far from the only options.
+- Videoconferencing changed long-distance communication by allowing people at different locations
+  to participate in discussions.
+- We have one hour for this conference so let's `stay on the track`/ `keep to the schedule`/
+  `save chitchat for the end`.
+- Please speak up. Voices don't always carry as well as we'd expect.
+- Am I looking at (snow/sleet/heavy rain/fog/the sun shining) through the window behind you?
+- We put together some visuals to better explain our proposol
+- Do you want a (short break/coffee break/lunch break)? We can `reconvene` in about ten minutes
+
+- `Reconvene` - meet again, pick up where one left off
+- `Sign off on` - approve, agree on
+- `Stay on track` - continue on the same topic
+- `Venture out` - take a chance going where you may not be comfortable.
+
+#### Self-Evaluation
+
+- Personal Development is an ongoing process
+- The first step in the process of self-evaluation, taking a good look at your strengths and shortcomings.
+
+- When someone makes a suggestion, am I open to it?
+- Do I become upset when I make mistakes?
+- Do I blame others for my mistakes?
+- Am I comfortable taking responsibility for my mistakes?
+- Can I accept corrections without feeling uncomfortable?
+- What skills I do have that are `adaptable` and `transferable`
+- Why am I an asset to this company?
+- WORDS that I believe describe me:
+  - Accurate
+  - Calm
+  - Cooperative
+  - Loyal
+  - Dependable
+  - Hardworking
+- WORDS I would like to add to WORDS that describe me:
+
+  - Adaptable
+  - Flexible
+  - Versatile
+  - Confident
+
+- `Interpersonal skills` - Skills for dealing with people
+- `Scrutinize` - Look at very carefully
+- `Shortcommings` - faults, lacks
+- `Up to par` - at the required standard
+- `Versatile` - Able to do many different things
+- `Bullheaded` - Won't change one's mind even though shown that one is being unreasonable.
