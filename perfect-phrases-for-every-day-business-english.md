@@ -590,6 +590,35 @@
 - PERFORMANCE EVALUATION PHRASES - NEEDS IMPROVEMENT
   - Does not adequately meet all the goals and objectives
   - Not readily accepting of criticism
-- Is not `timid` about offering suggestions to coworkers or managers
+- Is not `timid`(shy, scared) about offering suggestions to coworkers or managers
 - Always Proofreads outgoing correspondence without being asked.
 - Offers to stay late when he or she observes a coworker or supervisor is `under the gun`
+
+#### Resources for Professional Development
+
+- `do-it-yourself` route
+- become `proficient` at job
+- `in-house` training programs
+- `off-site` training programs
+
+- I am eager to improve my writing and speaking skills
+- I would like to work toward a promotion. Can you recommend any off-site courses in management skills
+- Is tution reimbursement available for that?
+
+##### Summary
+
+- YOU NEVER GET A SECOND CHANCE TO MAKE A FIRST IMPRESSION
+
+- RECORD AND LISTEN TO YOUR OWN VOICE
+
+  - Is it too loud? frantic? or pushy?
+  - Is it too slow? monotonous? or boring?
+
+- HOW ABOUT YOUR HANDSHAKE
+  - Is it firm? but not bone-crushing?
+  - Is it limp? or tentative?
+- What about your wardrobe?
+- What about your grooming?
+- What about your posture?
+
+- Once you appraise yourself in any or all of these ways, think about your success
