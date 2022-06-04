@@ -523,3 +523,73 @@
 - `Up to par` - at the required standard
 - `Versatile` - Able to do many different things
 - `Bullheaded` - Won't change one's mind even though shown that one is being unreasonable.
+
+#### Giving and Accepting Feedback
+
+- In order to be useful, feedback must me heard and considered or processed
+- Most People are comfortable praising others or giving positive feedback
+- Almost everyone is uncomfortable receiving or accepting praise.
+
+- The best way to give constructive or development feedback is to focus on job-related behaviour
+  and avoid generalities and labels.
+
+- GIVING FEEDBACK PHRASES - PRAISE
+
+  - Thank you for that extra effort! You made the entire team shine!
+  - I can always count on your geting the job done efficiently and well.
+  - Your smile `epitomizes` the word pleasant.
+  - Your (enthusiasm/commitment to our company/attention to details) not only shows in your work
+    but also is `contagious`.
+  - Ana, your generating new ideas has positively affected our entire team
+
+- GIVING FEEDBACK PHRASES - CONSTRUCTIVE CRITICISM
+
+  - What can you do to make it less frustrating?
+  - Please do not take our safety procedures and equipment rules lightly
+  - I acknowledge your diligence
+
+- ACCEPTING FEEDBACK
+
+  - Accepting development feedback graciously is the mark of a professional person
+  - Do not kill the messenger, listen to the real message
+  - Avoid rude and insensitive behaviour
+  - Avoid raising your voice or unintentional snub - because some person may perceive them as being rude.
+
+- Corporate Culture
+
+#### Job Coaching
+
+- Don't be defensive when asked any questions
+- Don't Jiggle the change in your pocket
+- Don't drop your voice at the ends of the sentence.
+
+- `Tardiness` - Being Late
+- `Jiggle` - shake; jiggling coins in one's pocket
+- `Get back on track`
+- `Demoralizing`
+- `Keep an eye on` - Watch, see how someone does something.
+
+#### Performance Evaluation Meetings
+
+- Coaching and feedback are part of the ongoing process of performance evaluation.
+- This process provides the employee and employer with a framework for support, encouragement,
+  reinforcement, and correction.
+
+- PERFORMANCE EVALUATION PHRASES - OUTSTANDING PERFORMANCE
+
+  - Meets and exceeds set goals and objectives (enthusiastically/professionally/competently)
+  - Requests additional responsibilities
+  - Assist others readily
+  - Outstanding skills
+  - Diligently completes all work
+  - Communicate clearly
+  - Graciously accept feedback
+  - Work well with minimal supervision
+  - Meets most goals and objectives
+
+- PERFORMANCE EVALUATION PHRASES - NEEDS IMPROVEMENT
+  - Does not adequately meet all the goals and objectives
+  - Not readily accepting of criticism
+- Is not `timid` about offering suggestions to coworkers or managers
+- Always Proofreads outgoing correspondence without being asked.
+- Offers to stay late when he or she observes a coworker or supervisor is `under the gun`
