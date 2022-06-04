@@ -437,3 +437,27 @@
 - `rambling` - long, disorganized speaking
 - `writing was on the wall` - It was likely, almost certain that something would take place,
   usually something negative
+
+#### Brainstorming and Decision Making Meetings
+
+- `brainstorm` process
+- Everyone `tosses out` ideas without weighing their `merit`
+- Once the choices have been narrowed down, they can be explored in `further` detail
+- With the group examining Positive and Negative consequences of each path
+- Sometimes a problem requires a `multipronged` solution
+
+- Let's get everyone's thoughts `on the table`.
+- All ideas are valuable. Don't hold back.
+- Excuse me; this is not the time for debate.
+- Let's keep going.
+- That is a little way out, but it could work.
+- Let's take a look at this idea another way.
+- That is an interesting `disgression`, but we have to wrap this up by three o'clock
+- Let's stay focused; no (`tangents`/side conversations/ `censoring` of ideas)
+
+- `disgression` - movement away from the main topic
+- `multipronged` - many parts (a fork has a number of prongs)
+- `run it up the flaghole` - test or try an idea
+- `tangent` - topic other than the topic being discussed
+
+#### Teams and Department Meetings
