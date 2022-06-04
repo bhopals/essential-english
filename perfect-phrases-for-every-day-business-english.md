@@ -405,3 +405,35 @@
 - casual friday
 - screening interview - initial screening to filter out candidates for the next round.
 - selection interview - (main or final round of interview - To select)
+
+##### Follow up
+
+- Your follow-up might `seal the deal`. If not, it does show that you know professional courtesy, and
+  even if you don't get this job, your resume could end up in the `keep in mind` file.
+- Write out your message first so you can deliver it clearly without `stumbling`.
+- Always speak bit more loudly and slowly when leaving a voice mail message.
+- The growth potential of this position is exciting.
+
+- `on the spur of the moment` - Right away / with no heads up or warning
+- `seal the deal`
+- `sell myself`
+
+#### Meeting protocal and Etiquette
+
+- Many meeting are scheduled regularly or ahead of time.
+- Sometimes, an emergency or critical issue `pops up` and requires a `spur-of-the-moment` meeting.
+- `all hands meetings`
+- A well-planned meeting serves everyone's need.
+- A well-planned meeting has a defined purpose, is well led and managed, and includes a written agenda.
+- An effective meeting leader, or facilitator, begins on time, stays withing stated parameters, and ends
+  on time. He or show works to stay withing the announced time frame, diplomatically controls the flow
+  of the discussion and discouraging rambling.
+- Meeting attendees should respect others by listening, acknowledging comments, not interrupting,
+  and speaking politely.
+
+- Thank you all for (attenting/coming on short notice/participating)
+- `closed its doors` - shut down, went out of business
+- `determined actions` - things to do that have already been decided on
+- `rambling` - long, disorganized speaking
+- `writing was on the wall` - It was likely, almost certain that something would take place,
+  usually something negative
