@@ -220,3 +220,30 @@
 
 - Would you like to get a glass of wine so I can thank you for the lead?
 - I am having a get-together at the office to celebrate. Would you like to join us?
+
+#### Communication is the key
+
+- May I summarize what I heard as I understand it?
+- How do you think I should approach that problem?
+- I want to give you my complete attention so that I can fully understand the (`issue`/`directions`/`problem`)
+- I regret that we (`got off on the wrong foot`/`had a rocky start`/`had that misunderstanding`). Can
+  we get past it?
+
+- PHRASES FOR COMMUNICATION WITH YOUR BOSS
+  - That's a strong suggestion. I'll get right on it.
+  - Not a problem. I can have that to you by end of today.
+  - Can you take a minute to explain how you want this done?
+  - I'll take notes so I don't have to ask again.
+
+#### Dealing with Conflicts
+
+- Conflicts results from differences of opinion or perception.
+- Acknowledge that conflict will occur. Don't be thrown by it. Know how to defuse it, minimize it, even
+  turn it into a friendly exchange or on occassion, someting to look back at and perhaps laugh at it.
+
+- I am sorry; I should have asked for clarification before doing that. How can I correct that?
+- I am sorry; I (`misunderstood`/`didn't hear you`). How can I fix this?
+- I realize that you are (`upset`/`angry`/`disappointed`). Can we please talk about this in your office?
+- Thank you for agreeing to approach the problem the way that I suggested.
+- I have to get back to my desk, and I only need milk for coffee. Let me just sneak by you, please.
+- I would like to discuss this before one of us blows this out of proportion.
