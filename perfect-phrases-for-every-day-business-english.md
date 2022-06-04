@@ -353,3 +353,31 @@
 - out on your own
 - pull my weight
 - standing out in the crowd
+
+#### Job Applications, Resumes, and Cover Letters
+
+- It is a good idea to come prepared with a personal information.
+- Anser honestly all the questions that `pertain` to you and the job you are applying for.
+- I would like (a duplicate/a second/another) copy, please.
+- I like to fill out a practice one first.
+- The letter should delineate (carefully describe) special information about your qualifications
+  related to a particular job.
+- Demonstrate that you know something about the company you are applying to and that you are
+  impressed by it. Not all applicants will do this; it's an edge that will get your application noticed.
+- Convey enthusiasm about working forthe company in this position.
+- I believe that my background in technology would make me a valuable part of your team.
+- Please note the relevant experience on my enclosed resume.
+- An extensive knowledge of JavaScript
+- Travel is not a problem for me, I enjoy meeting new people all the time.
+- I would appreciate the opportunity to meet with you to learn more about the position
+  and discuss the contribution I can make to your company.
+
+- `balancing act` - Trying to achieve two objectives equally without one diminishing the other;
+  keeping two opposing sides evenly distributed.
+- `Chronological resume` - a resume that list work experience in time order starting with the most recent
+  and working back.
+- `Considerate` - kind, thinking of others
+- `Delineate` - carefully describe
+- `Edge` - advantage that no one else has
+- `One size doesn't fit all`
+- `pertain` - have to do with
