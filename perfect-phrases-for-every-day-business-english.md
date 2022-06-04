@@ -326,3 +326,30 @@
 - It `fit the situation`, and that makes a difference especially in a c`ompetitive arena` such as
   applying to schools, competing in the job market, and other situations in which
   `standing out in a crowd` makes a difference in your chances to `come in first at the finish line`.
+
+#### Networking for stepping up
+
+- You may be `moving on up` withing your present company
+- `stepping up` to new opportunites
+- possibly going `out on your own`
+- working on `cross-functional projects`
+- Do you mind if I (join you/sit here/ take a seat)?
+- What can I do to `pull my weight` (do something useful withing a team)?
+- I would like to `get my feet wet` (do something for the first time)
+- This one is pretty `cut-and-dried` (well-planned, easy, not complicated)
+- I want to be `on the same wave length` (be on the same thought process)
+- When a company is not performing, there may be `downsizing` or `cutting back`.
+- Employees may be offered or strongly encouraged to take `buyout packages`(advantage offered to leave)
+- `aim to please` - goal to perform well
+- `competitive arena` - a situation in which many people trying to fill few openings.
+- fit the situation
+- buyout packages
+- Come in first at the finish line - win
+- Get my feet wet - Try or do something for the first time.
+- Going green - becoming environmentally aware, implementing practices that reduce waste,
+  save energy, and/or encourage recycling.
+- moving on up
+- On the same wavelength
+- out on your own
+- pull my weight
+- standing out in the crowd
