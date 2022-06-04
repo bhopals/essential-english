@@ -247,3 +247,28 @@
 - Thank you for agreeing to approach the problem the way that I suggested.
 - I have to get back to my desk, and I only need milk for coffee. Let me just sneak by you, please.
 - I would like to discuss this before one of us blows this out of proportion.
+
+#### Checks, Applications, and Other Forms
+
+- `Postdate` Check
+- Checks are usually valid for six months from the date written.
+- If you `misplace` a check and then find it seven months later, ask the bank if it can still be `honored`
+- To whom do I make out this check: your business or you personally?
+- I would rather not give you this check today; I will get it to you by Monday.
+  I know the funds will be clear by then.
+- May I pay in Cash? My checks haven't been printed yet.
+
+- What is the minimum amount I must keep in this account?
+- Are these checks free?
+- What are the charges, if any, when I reorder checks?
+- Is there a charge for deposit slips?
+- I just deposited a check for $400; how long will it take to clear?
+- Do I get any interest on the balance in my savings or checking account?
+- This check is drawn on an out-of-country bank; how long will it take to clear?
+- Do I need to fill out a separate form to obtain an ATM card?
+- Is there an 800 number I can call to check my balance instead of coming into the bank?
+- What are the branch's hours?
+- What holidays are you closed?
+- Are you open late any evenings?
+
+- May I borrow a pen? I don't have a pen with me.
