@@ -272,3 +272,48 @@
 - Are you open late any evenings?
 
 - May I borrow a pen? I don't have a pen with me.
+
+#### Faxes and Emails
+
+- Formal documents may be sent by e-mail for `expediency`, but are typically followed with hard-copy mailings.
+- E-mails can cut down on time and work.
+- Please delete me from your blast email list. I just don't have the time for so much
+  email that is not work-related.
+- Homonyms - Words that sound and are spelled the same but have different meanings - `bear` and `bear`.
+  - the `bear` could not `bear` the pain.
+- Homophones - Words that sound the same but have different spelling and meanings - `wait` and `weight`.
+
+#### Memos, Notes, and Letters
+
+- Exceed expectations
+- endorsement
+- tentative
+- security breach
+- legal ramifications
+- confidentail infromation
+- Thank you for commending the work of <someone>. We are very pleased with the pride that he takes in
+  his work and our products.
+- Searched high and low - looked all over
+
+#### Larger Writing Projects
+
+- Take something to heart (Take it seriously, believe it)
+
+#### Proof Reading
+
+- Good proof reader read `out loud`
+- It is amazing what you can catch when reading `aloud` that you might miss when reading silently.
+- Don't `inadvertently` skim over words
+
+- FOUR RULES OF PROOF READING
+
+  - READ FIRST for `SENSE`. Reading forward is reading for meaning.
+  - READ SECOND for `ACCURACY` - Focus on correct word usage, e.g., suffixes, homophones, etc.
+  - READ THIRD, from RIGHT to LEFT, to scrutinize each word. This reading backward step usually
+    catches spelling errors.
+  - READ, AGAIN, Double checking numbers, dates against calendars, names, and infamiliar information.
+
+- The spell-checker let this error go though. It is a word, but not the right word in this context.
+- Would you like me to `proof` what you have written.
+- You can always use an `extra pair of eyes`.
+- I would say this is correct `off the top of my head`, but let me proof it carefully before you send it.
