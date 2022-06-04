@@ -360,7 +360,7 @@
 - Anser honestly all the questions that `pertain` to you and the job you are applying for.
 - I would like (a duplicate/a second/another) copy, please.
 - I like to fill out a practice one first.
-- The letter should delineate (carefully describe) special information about your qualifications
+- The letter should `delineate` (carefully describe) special information about your qualifications
   related to a particular job.
 - Demonstrate that you know something about the company you are applying to and that you are
   impressed by it. Not all applicants will do this; it's an edge that will get your application noticed.
@@ -381,3 +381,27 @@
 - `Edge` - advantage that no one else has
 - `One size doesn't fit all`
 - `pertain` - have to do with
+
+#### Job Interviews
+
+- TIPS FOR THE INTERVIEW
+
+  - Think about how your skills and abilities suit you for the company and the job.
+  - Dress appropriately for the interviews
+  - Go with neat and clean hair, natural makeup, and low-key jewelry
+
+- THINGS TO AVOID IN AN INTERVIEW
+
+  - Do not `discredit` your present or previous employer.
+  - Do not `oversell` yourself by exaggerating your qualifications.
+  - Do not go to an intervie with scuffed shoes, wrinkled clothes, dirty clothes, or body odor
+  - Do not make any negative comments
+  - Do not pretend to know more than the interviewer; it won't impress her or him
+
+- I am excited about the possibility of being a part of this growth.
+- Learn more and bringing my new skills to the company
+- I prefer to do a job well the first time rather than rushing through it and having to do it over.
+
+- casual friday
+- screening interview - initial screening to filter out candidates for the next round.
+- selection interview - (main or final round of interview - To select)
